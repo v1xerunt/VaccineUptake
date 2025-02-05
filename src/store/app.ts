@@ -37,7 +37,7 @@ export interface IAppStore {
 }
 
 export const useAppStore = create<IAppStore>((set) => ({
-  mode: EMode.BOTH,
+  mode: EMode.MAP,
   setMode: (mode) => set({ mode }),
   mapData: [],
   countryOptions: [],
