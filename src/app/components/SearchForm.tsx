@@ -40,7 +40,11 @@ const formSchema = z.object({
 
 type FormValues = z.infer<typeof formSchema>;
 
-const SearchForm = () => {
+interface IProps {
+  onSubmit: () => void;
+}
+
+const SearchForm = ({ onSubmit }: IProps) => {
   const countryOptions = useAppStore((s) => s.countryOptions);
   const interventionOptions = useAppStore((s) => s.interventionOptions);
   const populationOptions = useAppStore((s) => s.popluationOptions);
@@ -49,7 +53,7 @@ const SearchForm = () => {
   const updateForm = useAppStore((s) => s.updateForm);
   const [filterValueOptions, setFilterValueOptions] = useState<
     Array<{ label: string; value: string }>
-  >([]);
+  >([{ label: "NA", value: "NA" }]);
 
   const form = useForm<FormValues>({
     resolver: zodResolver(formSchema),
@@ -79,8 +83,7 @@ const SearchForm = () => {
     [subFilterKeyOptions, form]
   );
 
-  const onSubmit: SubmitHandler<FormValues> = (data) => {
-    console.log("Form submitted:", data);
+  const handleSubmit: SubmitHandler<FormValues> = (data) => {
     updateForm({
       ...data,
       countries: data.countries.map((item) => item.value),
@@ -88,13 +91,14 @@ const SearchForm = () => {
         ? data.populations.map((item) => item.value)
         : undefined,
     });
+    onSubmit();
   };
 
   useEffect(() => {}, [formValues, form]);
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
+      <form onSubmit={form.handleSubmit(handleSubmit)} className="space-y-4">
         <FormField
           control={form.control}
           name="countries"
