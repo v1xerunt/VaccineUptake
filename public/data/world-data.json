@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "1",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "60.2%"
+  },
+  {
+    "id": "2",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "63.7%"
+  },
+  {
+    "id": "3",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "54.4%"
+  },
+  {
+    "id": "4",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "0-89 days old",
+    "uptake": "65.7%"
+  },
+  {
+    "id": "5",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "90-179 days old",
+    "uptake": "51.1%"
+  },
+  {
+    "id": "6",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "180-364 days old",
+    "uptake": "54.8%"
+  },
+  {
+    "id": "7",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "No comorbidities",
+    "uptake": "54.2%"
+  },
+  {
+    "id": "8",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity (born <36 weeks gestational age)",
+    "uptake": "79.5%"
+  },
+  {
+    "id": "9",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Congenital heart disease",
+    "uptake": "60.0%"
+  },
+  {
+    "id": "10",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Chronic lung disease",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "11",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Neurological disorders",
+    "uptake": "66.7%"
+  },
+  {
+    "id": "12",
+    "country": "Spain",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Other comorbidities",
+    "uptake": "20.0%"
+  },
+  {
+    "id": "13",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "60.2%"
+  },
+  {
+    "id": "14",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "63.7%"
+  },
+  {
+    "id": "15",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "54.4%"
+  },
+  {
+    "id": "16",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "0-89 days old",
+    "uptake": "65.7%"
+  },
+  {
+    "id": "17",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "90-179 days old",
+    "uptake": "51.1%"
+  },
+  {
+    "id": "18",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "180-364 days old",
+    "uptake": "54.8%"
+  },
+  {
+    "id": "19",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "No comorbidities",
+    "uptake": "54.2%"
+  },
+  {
+    "id": "20",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity (born <36 weeks gestational age)",
+    "uptake": "79.5%"
+  },
+  {
+    "id": "21",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Congenital heart disease",
+    "uptake": "60.0%"
+  },
+  {
+    "id": "22",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Chronic lung disease",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "23",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Neurological disorders",
+    "uptake": "66.7%"
+  },
+  {
+    "id": "24",
+    "country": "Andorra",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old hospitalised with bronchiolitis",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Other comorbidities",
+    "uptake": "20.0%"
+  },
+  {
+    "id": "25",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "67.3%"
+  },
+  {
+    "id": "26",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "73.3%"
+  },
+  {
+    "id": "27",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "59.1%"
+  },
+  {
+    "id": "28",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "No comorbidities",
+    "uptake": "58.8%"
+  },
+  {
+    "id": "29",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity",
+    "uptake": "84.6%"
+  },
+  {
+    "id": "30",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Cardiopathy",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "31",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old admitted to pediatric intensive care unit",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Neuropathy",
+    "uptake": "50.0%"
+  },
+  {
+    "id": "32",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "91.7%"
+  },
+  {
+    "id": "33",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Seasonal group",
+    "uptake": "95.4%"
+  },
+  {
+    "id": "34",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Catch-up group",
+    "uptake": "89.9%"
+  },
+  {
+    "id": "35",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "High risk group",
+    "uptake": "96.7%"
+  },
+  {
+    "id": "36",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": "≤3 months",
+    "uptake": "95.0%"
+  },
+  {
+    "id": "37",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">3 to 6 months",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "38",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">6 months",
+    "uptake": "88.3%"
+  },
+  {
+    "id": "39",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "92.0%"
+  },
+  {
+    "id": "40",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "91.4%"
+  },
+  {
+    "id": "41",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity (born <37 weeks gestational age)",
+    "uptake": "93.9%"
+  },
+  {
+    "id": "42",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Healthy Child programme visits",
+    "subFilterValue": "≥ 1",
+    "uptake": "92.5%"
+  },
+  {
+    "id": "43",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Healthy Child programme visits",
+    "subFilterValue": "0",
+    "uptake": "81.7%"
+  },
+  {
+    "id": "44",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Residential area",
+    "subFilterValue": "North",
+    "uptake": "92.0%"
+  },
+  {
+    "id": "45",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Residential area",
+    "subFilterValue": "South",
+    "uptake": "91.3%"
+  },
+  {
+    "id": "46",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Preterm (<35 weeks)",
+    "uptake": "95.6%"
+  },
+  {
+    "id": "47",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Preterm (<29 weeks)",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "48",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Congenital heart diseases",
+    "uptake": "98.5%"
+  },
+  {
+    "id": "49",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Bronchopulmonary dysplasia",
+    "uptake": "97.4%"
+  },
+  {
+    "id": "50",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Severe immunosuppression",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "51",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Congenital metabolic disorders",
+    "uptake": "92.9%"
+  },
+  {
+    "id": "52",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Neuromuscular diseases",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "53",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Severe pulmonary diseases",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "54",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Trisomy 21",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "55",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Cystic fibrosis",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "56",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "High-risk group",
+    "subFilterValue": "Patients in palliative care",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "57",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "80.1%"
+  },
+  {
+    "id": "58",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "23-27 weeks of gestation",
+    "uptake": "78.6%"
+  },
+  {
+    "id": "59",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "28-33 weeks of gestation",
+    "uptake": "86.6%"
+  },
+  {
+    "id": "60",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "34-36 weeks of gestation",
+    "uptake": "81.9%"
+  },
+  {
+    "id": "61",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "37-41 weeks of gestation",
+    "uptake": "80.0%"
+  },
+  {
+    "id": "62",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "42+ weeks of gestation",
+    "uptake": "53.3%"
+  },
+  {
+    "id": "63",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Type of birth",
+    "subFilterValue": "Single birth",
+    "uptake": "79.9%"
+  },
+  {
+    "id": "64",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Type of birth",
+    "subFilterValue": "Multiple birth",
+    "uptake": "86.6%"
+  },
+  {
+    "id": "65",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female sex",
+    "uptake": "79.7%"
+  },
+  {
+    "id": "66",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male sex",
+    "uptake": "80.5%"
+  },
+  {
+    "id": "67",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity (yes/no)",
+    "subFilterValue": "Comorbidities undetected",
+    "uptake": "79.8%"
+  },
+  {
+    "id": "68",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity (yes/no)",
+    "subFilterValue": "Detected comorbidity",
+    "uptake": "83.6%"
+  },
+  {
+    "id": "69",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Prematurity (<35 weeks gestational age)",
+    "uptake": "84.7%"
+  },
+  {
+    "id": "70",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Lung pathology",
+    "uptake": "78.8%"
+  },
+  {
+    "id": "71",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Cardiac pathology",
+    "uptake": "80.0%"
+  },
+  {
+    "id": "72",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Immunodepression",
+    "uptake": "81.3%"
+  },
+  {
+    "id": "73",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Metabolism disorders",
+    "uptake": "84.1%"
+  },
+  {
+    "id": "74",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Neurological pathology",
+    "uptake": "79.5%"
+  },
+  {
+    "id": "75",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Comorbidity groups",
+    "subFilterValue": "Palliative care",
+    "uptake": "100.0%"
+  },
+  {
+    "id": "76",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "Up to 10th (lower)",
+    "uptake": "64.7%"
+  },
+  {
+    "id": "77",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "11th to 30th",
+    "uptake": "72.1%"
+  },
+  {
+    "id": "78",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "31st to 50th",
+    "uptake": "78.6%"
+  },
+  {
+    "id": "79",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "51st to 70th",
+    "uptake": "85.6%"
+  },
+  {
+    "id": "80",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "71st to 90th",
+    "uptake": "89.3%"
+  },
+  {
+    "id": "81",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Average personal net income of the census section of residence (2021 data)",
+    "subFilterValue": "91st to 100th (higher)",
+    "uptake": "90.2%"
+  },
+  {
+    "id": "82",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "36.5%"
+  },
+  {
+    "id": "83",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": "≤3 months",
+    "uptake": "58.2%"
+  },
+  {
+    "id": "84",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">3 to ≤6 months",
+    "uptake": "37.6%"
+  },
+  {
+    "id": "85",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">6 to 12 months",
+    "uptake": "18.0%"
+  },
+  {
+    "id": "86",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old at emergency department with RSV-associated bronchiolitis",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "11.0%"
+  },
+  {
+    "id": "87",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old at emergency department with RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "≤3 months",
+    "uptake": "23.0%"
+  },
+  {
+    "id": "88",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old at emergency department with RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">3 to ≤6 months",
+    "uptake": "2.9%"
+  },
+  {
+    "id": "89",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old at emergency department with RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">6 to 12 months",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "90",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due all-cause bronchiolitis",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "23.6%"
+  },
+  {
+    "id": "91",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due all-cause bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "≤3 months",
+    "uptake": "37.6%"
+  },
+  {
+    "id": "92",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due all-cause bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">3 to ≤6 months",
+    "uptake": "12.4%"
+  },
+  {
+    "id": "93",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due all-cause bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">6 to 12 months",
+    "uptake": "13.4%"
+  },
+  {
+    "id": "94",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due to RSV-associated bronchiolitis",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "11.5%"
+  },
+  {
+    "id": "95",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due to RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": "≤3 months",
+    "uptake": "23.0%"
+  },
+  {
+    "id": "96",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due to RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">3 to ≤6 months",
+    "uptake": "3.0%"
+  },
+  {
+    "id": "97",
+    "country": "France",
+    "city": "Paris",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised due to RSV-associated bronchiolitis",
+    "subFilterKey": "Age group",
+    "subFilterValue": ">6 to 12 months",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "98",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "87.2%"
+  },
+  {
+    "id": "99",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "87.3%"
+  },
+  {
+    "id": "100",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Nationality",
+    "subFilterValue": "Spanish",
+    "uptake": "87.8%"
+  },
+  {
+    "id": "101",
+    "country": "Spain",
+    "city": "Catalonia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Rural or urban residence",
+    "subFilterValue": "Rural residence",
+    "uptake": "86.1%"
+  },
+  {
+    "id": "102",
+    "country": "Italy",
+    "city": "Valle d' Aosta",
+    "intervention": "Nirsevimab",
+    "population": "Infants born between 1 May 2023 and 15 Feb 2024",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "68.7%"
+  },
+  {
+    "id": "103",
+    "country": "Italy",
+    "city": "Valle d' Aosta",
+    "intervention": "Nirsevimab",
+    "population": "Infants born between 1 May 2023 and 15 Feb 2025",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Seasonal group",
+    "uptake": "86.5%"
+  },
+  {
+    "id": "104",
+    "country": "Italy",
+    "city": "Valle d' Aosta",
+    "intervention": "Nirsevimab",
+    "population": "Infants born between 1 May 2023 and 15 Feb 2026",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Catch-up group",
+    "uptake": "65.2%"
+  },
+  {
+    "id": "105",
+    "country": "Luxembourg",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Newnorns at maternity wards (Oct to mid-Dec 2023)",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "83.8%"
+  },
+  {
+    "id": "106",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "88.5%"
+  },
+  {
+    "id": "107",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Catch-up group",
+    "uptake": "86.5%"
+  },
+  {
+    "id": "108",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Seasonal group",
+    "uptake": "92.1%"
+  },
+  {
+    "id": "109",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "88.3%"
+  },
+  {
+    "id": "110",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "88.8%"
+  },
+  {
+    "id": "111",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Maternity service",
+    "subFilterValue": "Private",
+    "uptake": "82.6%"
+  },
+  {
+    "id": "112",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Maternity service",
+    "subFilterValue": "Not private",
+    "uptake": "90.2%"
+  },
+  {
+    "id": "113",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Birth weight",
+    "subFilterValue": "1500 g or more",
+    "uptake": "88.6%"
+  },
+  {
+    "id": "114",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Birth weight",
+    "subFilterValue": "Less than 1500 g",
+    "uptake": "75.0%"
+  },
+  {
+    "id": "115",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "38 or more weeks",
+    "uptake": "88.5%"
+  },
+  {
+    "id": "116",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "Less than 38 weeks",
+    "uptake": "88.4%"
+  },
+  {
+    "id": "117",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Feeding status",
+    "subFilterValue": "Mother with breastfeeding intention",
+    "uptake": "88.3%"
+  },
+  {
+    "id": "118",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Feeding status",
+    "subFilterValue": "Mother without breastfeeding intention",
+    "uptake": "89.0%"
+  },
+  {
+    "id": "119",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Nationality",
+    "subFilterValue": "Spanish",
+    "uptake": "91.7%"
+  },
+  {
+    "id": "120",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old",
+    "subFilterKey": "Nationality",
+    "subFilterValue": "Non-Spanish",
+    "uptake": "83.9%"
+  },
+  {
+    "id": "121",
+    "country": "Spain",
+    "city": "Navarre",
+    "intervention": "Nirsevimab",
+    "population": "Newborns immmunised at birth (Oct - Dec 2023)",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "92.0%"
+  },
+  {
+    "id": "122",
+    "country": "Spain",
+    "city": "Navarre",
+    "intervention": "Nirsevimab",
+    "population": "Newborns immmunised at birth (Oct - Dec 2023)",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "92.2%"
+  },
+  {
+    "id": "123",
+    "country": "Spain",
+    "city": "Navarre",
+    "intervention": "Nirsevimab",
+    "population": "Newborns immmunised at birth (Oct - Dec 2023)",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "91.7%"
+  },
+  {
+    "id": "124",
+    "country": "United States",
+    "city": "Alaska",
+    "intervention": "Nirsevimab",
+    "population": "American Indian or Alaska Native children <20 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "47.5%"
+  },
+  {
+    "id": "125",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "88.1%"
+  },
+  {
+    "id": "126",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "90.2%"
+  },
+  {
+    "id": "127",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "84.5%"
+  },
+  {
+    "id": "128",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Age group",
+    "subFilterValue": "0-3 months",
+    "uptake": "92.5%"
+  },
+  {
+    "id": "129",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Age group",
+    "subFilterValue": "3+ months",
+    "uptake": "86.0%"
+  },
+  {
+    "id": "130",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Seasonal",
+    "uptake": "90.6%"
+  },
+  {
+    "id": "131",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Catch-up",
+    "uptake": "87.5%"
+  },
+  {
+    "id": "132",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Preschool age siblings",
+    "subFilterValue": "Yes",
+    "uptake": "88.6%"
+  },
+  {
+    "id": "133",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Attend daycare",
+    "subFilterValue": "Yes",
+    "uptake": "83.3%"
+  },
+  {
+    "id": "134",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity",
+    "uptake": "88.9%"
+  },
+  {
+    "id": "135",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "88.1%"
+  },
+  {
+    "id": "136",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "90.2%"
+  },
+  {
+    "id": "137",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "84.5%"
+  },
+  {
+    "id": "138",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Age group",
+    "subFilterValue": "0-3 months",
+    "uptake": "92.5%"
+  },
+  {
+    "id": "139",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Age group",
+    "subFilterValue": "3+ months",
+    "uptake": "86.0%"
+  },
+  {
+    "id": "140",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Seasonal",
+    "uptake": "90.6%"
+  },
+  {
+    "id": "141",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Enrolment group",
+    "subFilterValue": "Catch-up",
+    "uptake": "87.5%"
+  },
+  {
+    "id": "142",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Preschool age siblings",
+    "subFilterValue": "Yes",
+    "uptake": "88.6%"
+  },
+  {
+    "id": "143",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Attend daycare",
+    "subFilterValue": "Yes",
+    "uptake": "83.3%"
+  },
+  {
+    "id": "144",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 10 months old with lower respiratory tract infection at primary care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Prematurity",
+    "uptake": "88.9%"
+  },
+  {
+    "id": "145",
+    "country": "Spain",
+    "city": "Valencia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 9 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "146",
+    "country": "Spain",
+    "city": "Murcia",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 9 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "147",
+    "country": "Spain",
+    "city": "Valladolid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 9 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "90.0%"
+  },
+  {
+    "id": "148",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Newborns immunised at hospital within the first 24h of life",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "92.6%"
+  },
+  {
+    "id": "149",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Infants 0-6 months old at the start of the RSV season (1st Oct)",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "81.4%"
+  },
+  {
+    "id": "150",
+    "country": "Spain",
+    "city": "Galicia",
+    "intervention": "Nirsevimab",
+    "population": "Children 6-24 months old at the start of the RSV season with risk conditions",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "97.5%"
+  },
+  {
+    "id": "151",
+    "country": "Spain",
+    "city": "Madrid",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 6 months old at A&E with RSV infection",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "36.5%"
+  },
+  {
+    "id": "152",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "8.4%"
+  },
+  {
+    "id": "153",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "<1 month",
+    "uptake": "9.0%"
+  },
+  {
+    "id": "154",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "1-2 months",
+    "uptake": "8.4%"
+  },
+  {
+    "id": "155",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "3-4 months",
+    "uptake": "6.9%"
+  },
+  {
+    "id": "156",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "5-6 months",
+    "uptake": "5.0%"
+  },
+  {
+    "id": "157",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "7-8 months",
+    "uptake": "9.4%"
+  },
+  {
+    "id": "158",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "9-10 months",
+    "uptake": "26.1%"
+  },
+  {
+    "id": "159",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Age group",
+    "subFilterValue": "11-12 months",
+    "uptake": "33.3%"
+  },
+  {
+    "id": "160",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "Preterm <37 weeks",
+    "uptake": "10.3%"
+  },
+  {
+    "id": "161",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Weeks of gestation",
+    "subFilterValue": "Term 37+ weeks",
+    "uptake": "8.0%"
+  },
+  {
+    "id": "162",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "1+ high-risk medical condition",
+    "uptake": "46.2%"
+  },
+  {
+    "id": "163",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "No comorbidities",
+    "uptake": "6.2%"
+  },
+  {
+    "id": "164",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "9.6%"
+  },
+  {
+    "id": "165",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "7.6%"
+  },
+  {
+    "id": "166",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "American Indian or Alaska Native",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "167",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Asian",
+    "uptake": "6.4%"
+  },
+  {
+    "id": "168",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Black or African American",
+    "uptake": "9.0%"
+  },
+  {
+    "id": "169",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Native Hawaiian or other Pacific Islander",
+    "uptake": "10.2%"
+  },
+  {
+    "id": "170",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "White",
+    "uptake": "16.7%"
+  },
+  {
+    "id": "171",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic or Latino",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "172",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Multiple race or other non-specified",
+    "uptake": "6.4%"
+  },
+  {
+    "id": "173",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Unknown",
+    "uptake": "10.5%"
+  },
+  {
+    "id": "174",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public",
+    "uptake": "9.6%"
+  },
+  {
+    "id": "175",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Private",
+    "uptake": "7.3%"
+  },
+  {
+    "id": "176",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public and private",
+    "uptake": "25.0%"
+  },
+  {
+    "id": "177",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Self-pay (none)",
+    "uptake": "7.8%"
+  },
+  {
+    "id": "178",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 12 months old hospitalised with acute respiratory infection",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Unknown",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "179",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "70.8%"
+  },
+  {
+    "id": "180",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Male",
+    "uptake": "69.6%"
+  },
+  {
+    "id": "181",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Female",
+    "uptake": "73.3%"
+  },
+  {
+    "id": "182",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Age at time of disharge",
+    "subFilterValue": "<3 days",
+    "uptake": "69.3%"
+  },
+  {
+    "id": "183",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Age at time of disharge",
+    "subFilterValue": ">3 days",
+    "uptake": "76.4%"
+  },
+  {
+    "id": "184",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic/ Latino",
+    "uptake": "75.3%"
+  },
+  {
+    "id": "185",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Non-Hispanic/ Non-Latino -- Asian",
+    "uptake": "74.5%"
+  },
+  {
+    "id": "186",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Non-Hispanic/ Non-Latino -- White",
+    "uptake": "66.3%"
+  },
+  {
+    "id": "187",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Non-Hispanic/ Non-Latino -- Other",
+    "uptake": "56.5%"
+  },
+  {
+    "id": "188",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Multi-Racial",
+    "uptake": "73.8%"
+  },
+  {
+    "id": "189",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Unknown/Other",
+    "uptake": "65.9%"
+  },
+  {
+    "id": "190",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Preferred language",
+    "subFilterValue": "English",
+    "uptake": "68.3%"
+  },
+  {
+    "id": "191",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Preferred language",
+    "subFilterValue": "Spanish",
+    "uptake": "80.4%"
+  },
+  {
+    "id": "192",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Preferred language",
+    "subFilterValue": "Other",
+    "uptake": "70.0%"
+  },
+  {
+    "id": "193",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Private/ Managed care",
+    "uptake": "71.8%"
+  },
+  {
+    "id": "194",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public",
+    "uptake": "71.5%"
+  },
+  {
+    "id": "195",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Other",
+    "uptake": "33.3%"
+  },
+  {
+    "id": "196",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Haemodynamically significant CHD",
+    "uptake": "88.9%"
+  },
+  {
+    "id": "197",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "BPD or CLD and medical support",
+    "uptake": "77.8%"
+  },
+  {
+    "id": "198",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Discharge unit",
+    "subFilterValue": "Newborn Nursery",
+    "uptake": "69.1%"
+  },
+  {
+    "id": "199",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Discharge unit",
+    "subFilterValue": "Intermediate Care Nursery",
+    "uptake": "84.4%"
+  },
+  {
+    "id": "200",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Discharge unit",
+    "subFilterValue": "NICU",
+    "uptake": "68.8%"
+  },
+  {
+    "id": "201",
+    "country": "United States",
+    "city": "California",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months of old ",
+    "subFilterKey": "Received hepatitis B vaccine",
+    "subFilterValue": "Yes",
+    "uptake": "75.9%"
+  },
+  {
+    "id": "202",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "44.6%"
+  },
+  {
+    "id": "203",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal age group",
+    "subFilterValue": "Maternal age: 35-49",
+    "uptake": "48.4%"
+  },
+  {
+    "id": "204",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal age group",
+    "subFilterValue": "Maternal age: 25-34",
+    "uptake": "42.5%"
+  },
+  {
+    "id": "205",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal age group",
+    "subFilterValue": "Maternal age: 18-24",
+    "uptake": "46.5%"
+  },
+  {
+    "id": "206",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Black or African American",
+    "uptake": "51.1%"
+  },
+  {
+    "id": "207",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "White",
+    "uptake": "44.2%"
+  },
+  {
+    "id": "208",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic or Latino",
+    "uptake": "43.9%"
+  },
+  {
+    "id": "209",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Other",
+    "uptake": "38.5%"
+  },
+  {
+    "id": "210",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal education",
+    "subFilterValue": "Higher than college degree",
+    "uptake": "37.2%"
+  },
+  {
+    "id": "211",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal education",
+    "subFilterValue": "College degree",
+    "uptake": "46.2%"
+  },
+  {
+    "id": "212",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal education",
+    "subFilterValue": "Some college, no degree",
+    "uptake": "45.3%"
+  },
+  {
+    "id": "213",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal education",
+    "subFilterValue": "High school diploma or less",
+    "uptake": "45.0%"
+  },
+  {
+    "id": "214",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal employment status",
+    "subFilterValue": "Employed mother",
+    "uptake": "48.5%"
+  },
+  {
+    "id": "215",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Maternal employment status",
+    "subFilterValue": "Unemployed mother",
+    "uptake": "38.7%"
+  },
+  {
+    "id": "216",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Poverty status",
+    "subFilterValue": "At or above poverty",
+    "uptake": "44.5%"
+  },
+  {
+    "id": "217",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Poverty status",
+    "subFilterValue": "Below poverty",
+    "uptake": "44.7%"
+  },
+  {
+    "id": "218",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Area of residence",
+    "subFilterValue": "Non-rural area of residence",
+    "uptake": "44.7%"
+  },
+  {
+    "id": "219",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Area of residence",
+    "subFilterValue": "Rural area of residence",
+    "uptake": "43.9%"
+  },
+  {
+    "id": "220",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Region",
+    "subFilterValue": "Northeast region",
+    "uptake": "44.0%"
+  },
+  {
+    "id": "221",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Region",
+    "subFilterValue": "Midwest region",
+    "uptake": "48.7%"
+  },
+  {
+    "id": "222",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Region",
+    "subFilterValue": "South region",
+    "uptake": "47.4%"
+  },
+  {
+    "id": "223",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Region",
+    "subFilterValue": "West region",
+    "uptake": "36.6%"
+  },
+  {
+    "id": "224",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Prenatal insurance coverage",
+    "subFilterValue": "Private or military insurance",
+    "uptake": "43.1%"
+  },
+  {
+    "id": "225",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Prenatal insurance coverage",
+    "subFilterValue": "Any public insurance",
+    "uptake": "46.9%"
+  },
+  {
+    "id": "226",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Prenatal insurance coverage",
+    "subFilterValue": "No insurance",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "227",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Provider recommendation of RSV vaccine or nirsevimab",
+    "subFilterValue": "Provider recommendation",
+    "uptake": "58.7%"
+  },
+  {
+    "id": "228",
+    "country": "United States",
+    "city": "NA",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 2 months old",
+    "subFilterKey": "Provider recommendation of RSV vaccine or nirsevimab",
+    "subFilterValue": "No provider recommendation",
+    "uptake": "28.3%"
+  },
+  {
+    "id": "229",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "10.7%"
+  },
+  {
+    "id": "230",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "10.8%"
+  },
+  {
+    "id": "231",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "10.5%"
+  },
+  {
+    "id": "232",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic",
+    "uptake": "10.4%"
+  },
+  {
+    "id": "233",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "White non-Hispanic",
+    "uptake": "8.3%"
+  },
+  {
+    "id": "234",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Black non-Hispanic",
+    "uptake": "16.1%"
+  },
+  {
+    "id": "235",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Other non-Hispanic",
+    "uptake": "14.9%"
+  },
+  {
+    "id": "236",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Unknown",
+    "uptake": "5.6%"
+  },
+  {
+    "id": "237",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Premature (<37 weeks of gestation)",
+    "uptake": "21.5%"
+  },
+  {
+    "id": "238",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Pulmonary diseases",
+    "uptake": "12.2%"
+  },
+  {
+    "id": "239",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Cardiac diseases",
+    "uptake": "21.7%"
+  },
+  {
+    "id": "240",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Anemia",
+    "uptake": "11.7%"
+  },
+  {
+    "id": "241",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Having at least one risk factor",
+    "uptake": "16.4%"
+  },
+  {
+    "id": "242",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Private",
+    "uptake": "7.9%"
+  },
+  {
+    "id": "243",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public",
+    "uptake": "12.1%"
+  },
+  {
+    "id": "244",
+    "country": "United States",
+    "city": "Connecticut",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Uninsured",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "245",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "10.7%"
+  },
+  {
+    "id": "246",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "10.8%"
+  },
+  {
+    "id": "247",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "10.5%"
+  },
+  {
+    "id": "248",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic",
+    "uptake": "10.4%"
+  },
+  {
+    "id": "249",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "White non-Hispanic",
+    "uptake": "8.3%"
+  },
+  {
+    "id": "250",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Black non-Hispanic",
+    "uptake": "16.1%"
+  },
+  {
+    "id": "251",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Other non-Hispanic",
+    "uptake": "14.9%"
+  },
+  {
+    "id": "252",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Unknown",
+    "uptake": "5.6%"
+  },
+  {
+    "id": "253",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Premature (<37 weeks of gestation)",
+    "uptake": "21.5%"
+  },
+  {
+    "id": "254",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Pulmonary diseases",
+    "uptake": "12.2%"
+  },
+  {
+    "id": "255",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Cardiac diseases",
+    "uptake": "21.7%"
+  },
+  {
+    "id": "256",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Anemia",
+    "uptake": "11.7%"
+  },
+  {
+    "id": "257",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Having at least one risk factor",
+    "uptake": "16.4%"
+  },
+  {
+    "id": "258",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Private",
+    "uptake": "7.9%"
+  },
+  {
+    "id": "259",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public",
+    "uptake": "12.1%"
+  },
+  {
+    "id": "260",
+    "country": "United States",
+    "city": "New York",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Uninsured",
+    "uptake": "0.0%"
+  },
+  {
+    "id": "261",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "TOTAL",
+    "subFilterValue": "NA",
+    "uptake": "10.7%"
+  },
+  {
+    "id": "262",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Males",
+    "uptake": "10.8%"
+  },
+  {
+    "id": "263",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Sex",
+    "subFilterValue": "Females",
+    "uptake": "10.5%"
+  },
+  {
+    "id": "264",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Hispanic",
+    "uptake": "10.4%"
+  },
+  {
+    "id": "265",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "White non-Hispanic",
+    "uptake": "8.3%"
+  },
+  {
+    "id": "266",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Black non-Hispanic",
+    "uptake": "16.1%"
+  },
+  {
+    "id": "267",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Other non-Hispanic",
+    "uptake": "14.9%"
+  },
+  {
+    "id": "268",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Ethnicity",
+    "subFilterValue": "Unknown",
+    "uptake": "5.6%"
+  },
+  {
+    "id": "269",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Premature (<37 weeks of gestation)",
+    "uptake": "21.5%"
+  },
+  {
+    "id": "270",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Pulmonary diseases",
+    "uptake": "12.2%"
+  },
+  {
+    "id": "271",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Cardiac diseases",
+    "uptake": "21.7%"
+  },
+  {
+    "id": "272",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Anemia",
+    "uptake": "11.7%"
+  },
+  {
+    "id": "273",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Comorbidities",
+    "subFilterValue": "Having at least one risk factor",
+    "uptake": "16.4%"
+  },
+  {
+    "id": "274",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Private",
+    "uptake": "7.9%"
+  },
+  {
+    "id": "275",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Public",
+    "uptake": "12.1%"
+  },
+  {
+    "id": "276",
+    "country": "United States",
+    "city": "Rhode Island",
+    "intervention": "Nirsevimab",
+    "population": "Infants under 8 months old with acute respiratory infection receiving medical care",
+    "subFilterKey": "Insurance type",
+    "subFilterValue": "Uninsured",
+    "uptake": "0.0%"
+  }
+]
