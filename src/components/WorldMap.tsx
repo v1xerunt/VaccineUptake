@@ -29,7 +29,7 @@ function transform(arr: IData[]): IData[] {
   // 生成结果数组，计算平均值
   return Object.keys(stats).map((name) => ({
     name,
-    value: stats[name].sum / stats[name].count,
+    value: Number((stats[name].sum / stats[name].count).toFixed(2)),
     details: arr.find((item) => item.name === name)!.details,
   }));
 }
@@ -91,10 +91,28 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
               const { name, value, data } = params;
               if (!data.details) return name;
 
-              return `  
+              if (mapData.length === 1) {
+                return `  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
-                <div>uptake: ${value + "%"}</div>  
-              `;
+                <div>uptake: ${value + "%"}</div>
+                `;
+              }
+
+              return (
+                `  
+                <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
+                <div>uptake: ${value + "%"}</div>
+                <br />
+                ` +
+                mapData
+                  .filter((item) => item.name === name)
+                  .map(
+                    (item) => `
+                      <div>${item.details.city}: ${item.details.uptake}</div>
+                    `
+                  )
+                  .join("")
+              );
             },
           },
           visualMap: {

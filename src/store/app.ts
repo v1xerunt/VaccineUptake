@@ -9,7 +9,7 @@ export enum EMode {
 
 export interface IForm {
   countries: string[];
-  cities?: string[];
+  showCities: boolean;
   studies?: string[];
   health?: string[];
   settings?: string[];
@@ -69,6 +69,7 @@ export const useAppStore = create<IAppStore>((set) => ({
   subFilterKeyOptions: [],
   form: {
     countries: [],
+    showCities: false,
     subFilterKey: "total",
     subFilterValue: "total",
   },

@@ -27,6 +27,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./ui/select";
+import { Switch } from "./ui/switch";
 
 export function FilterPanel() {
   const updateMap = useAppStore((s) => s.updateMap);
@@ -45,7 +46,7 @@ export function FilterPanel() {
   const subFilterKeyOptions = useAppStore((s) => s.subFilterKeyOptions);
 
   const upateSingleFormItem =
-    (key: keyof IForm) => (value: string | string[]) => {
+    (key: keyof IForm) => (value: string | string[] | boolean) => {
       updateForm(key, value);
     };
 
@@ -69,6 +70,7 @@ export function FilterPanel() {
   const handleReset = () => {
     resetForm({
       countries: countryOptions.map((option) => option.value),
+      showCities: false,
       subFilterKey: "total",
       subFilterValue: "total",
     });
@@ -210,6 +212,22 @@ export function FilterPanel() {
             </div>
           </CollapsibleContent>
         </Collapsible>
+        <div className="border rounded-md p-4 space-y-4 bg-card">
+          <h3 className="font-medium">Display Options</h3>
+
+          <div className="flex items-center justify-between">
+            <div className="space-y-0.5">
+              <label className="text-sm font-medium">Show Cities</label>
+              <p className="text-xs text-muted-foreground">
+                Display cities data
+              </p>
+            </div>
+            <Switch
+              checked={formValues.showCities}
+              onCheckedChange={upateSingleFormItem("showCities")}
+            />
+          </div>
+        </div>
       </div>
 
       <div className="border-t p-4 flex justify-between gap-2 bg-background sticky bottom-0">

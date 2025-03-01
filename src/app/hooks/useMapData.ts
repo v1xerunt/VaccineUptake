@@ -26,10 +26,11 @@ export const useMapData = (type: InterventionType) => {
     return currentInterVentionMapData.filter((d) => {
       if (form.countries.length && !form.countries.includes(d.details.country))
         return false;
-      if (!form.cities?.length) {
+      if (!form.showCities) {
         if (d.details.city !== "NA") return false;
+      } else {
+        if (d.details.city === "NA") return false;
       }
-      if (form.cities && !form.cities.includes(d.details.city)) return false;
 
       if (
         form.populations?.length &&
@@ -125,6 +126,7 @@ export const useMapData = (type: InterventionType) => {
     });
     updateForm({
       countries,
+      showCities: false,
       studies: [studys[0]],
       health: [healths[0]],
       settings: [settings[0]],
