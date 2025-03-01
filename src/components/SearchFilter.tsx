@@ -18,7 +18,7 @@ import {
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
 
-import { useAppStore } from "@/store/app";
+import { IForm, useAppStore } from "@/store/app";
 import { MultiSelectDropdown } from "./multi-select";
 import {
   Select,
@@ -35,7 +35,8 @@ export function FilterPanel() {
   }, [updateMap]);
 
   const formValues = useAppStore((s) => s.form);
-  const updateForm = useAppStore((s) => s.updateForm);
+  const resetForm = useAppStore((s) => s.updateForm);
+  const updateForm = useAppStore((s) => s.updateSingleFormItem);
   const countryOptions = useAppStore((s) => s.countryOptions);
   const populationOptions = useAppStore((s) => s.popluationOptions);
   const studyOptions = useAppStore((s) => s.studyOptions);
@@ -43,12 +44,10 @@ export function FilterPanel() {
   const settingOptions = useAppStore((s) => s.settingOptions);
   const subFilterKeyOptions = useAppStore((s) => s.subFilterKeyOptions);
 
-  const upateSingleFormItem = (key: string) => (value: string | string[]) => {
-    updateForm({
-      ...formValues,
-      [key]: value,
-    });
-  };
+  const upateSingleFormItem =
+    (key: keyof IForm) => (value: string | string[]) => {
+      updateForm(key, value);
+    };
 
   // State for collapsible sections
   const [primaryOpen, setPrimaryOpen] = useState(true);
@@ -63,11 +62,12 @@ export function FilterPanel() {
       (option) => option.value === formValues.subFilterKey
     );
     setFilterValueOptions(selectedKey?.options ?? []);
-  }, [formValues.subFilterKey, subFilterKeyOptions]);
+    updateForm("subFilterValue", selectedKey?.options[0].value ?? "total");
+  }, [formValues.subFilterKey, subFilterKeyOptions, updateForm]);
 
   // Handle reset
   const handleReset = () => {
-    updateForm({
+    resetForm({
       countries: countryOptions.map((option) => option.value),
       subFilterKey: "total",
       subFilterValue: "total",

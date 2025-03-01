@@ -7,6 +7,33 @@ import { IData } from "@/types/app";
 import { EMode, useAppStore } from "@/store/app";
 import { useShallow } from "zustand/react/shallow";
 
+function transform(arr: IData[]): IData[] {
+  // 用于存储每个name的数据统计
+  const stats: Record<string, { sum: number; count: number }> = {};
+
+  // 遍历原始数组，收集统计信息
+  arr.forEach((item) => {
+    if (!stats[item.name]) {
+      // 第一次遇到这个name
+      stats[item.name] = {
+        sum: item.value,
+        count: 1,
+      };
+    } else {
+      // 已经遇到过这个name，更新统计信息
+      stats[item.name].sum += item.value;
+      stats[item.name].count += 1;
+    }
+  });
+
+  // 生成结果数组，计算平均值
+  return Object.keys(stats).map((name) => ({
+    name,
+    value: stats[name].sum / stats[name].count,
+    details: arr.find((item) => item.name === name)!.details,
+  }));
+}
+
 interface IProps {
   loadingText: string;
   mapData: IData[];
@@ -67,10 +94,6 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
               return `  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
                 <div>uptake: ${value + "%"}</div>  
-                <div>Interverntion: ${data.details.intervention}</div>  
-                <div>Description of total population: ${
-                  data.details.population
-                }</div>  
               `;
             },
           },
@@ -123,7 +146,7 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
                 borderColor: "#d9d9d9",
                 borderWidth: 1,
               },
-              data: mapData,
+              data: transform(mapData),
             },
           ],
         };

@@ -24,6 +24,12 @@ import { useState } from "react";
 
 const columns: ColumnDef<IData>[] = [
   {
+    id: "details11",
+    accessorKey: "details",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").id,
+    header: "id",
+  },
+  {
     accessorKey: "name",
     header: "Country",
   },

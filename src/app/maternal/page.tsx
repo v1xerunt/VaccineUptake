@@ -6,7 +6,7 @@ import { useMapData } from "../hooks/useMapData";
 import { InterventionType } from "@/types/app";
 
 export default function Page() {
-  const mapData = useMapData(InterventionType.MATERNAL);
+  const { mapData } = useMapData(InterventionType.MATERNAL);
 
   return (
     <div className="flex flex-1">

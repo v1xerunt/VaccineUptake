@@ -7,7 +7,7 @@ export enum EMode {
   BOTH = "Both",
 }
 
-interface IForm {
+export interface IForm {
   countries: string[];
   cities?: string[];
   studies?: string[];
@@ -40,6 +40,10 @@ export interface IAppStore {
   }>;
   form: IForm;
   updateForm: (form: IForm) => void;
+  updateSingleFormItem: <T extends keyof IForm>(
+    key: T,
+    value: IForm[T]
+  ) => void;
   setOptions: (options: {
     countryOptions: IAppStore["countryOptions"];
     interventionOptions: IAppStore["interventionOptions"];
@@ -72,6 +76,14 @@ export const useAppStore = create<IAppStore>((set) => ({
     set({
       form,
     });
+  },
+  updateSingleFormItem: (key, value) => {
+    set((state) => ({
+      form: {
+        ...state.form,
+        [key]: value,
+      },
+    }));
   },
   setOptions: (options) => {
     set({

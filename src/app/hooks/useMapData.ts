@@ -4,12 +4,13 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { useShallow } from "zustand/react/shallow";
 
 export const useMapData = (type: InterventionType) => {
-  const { mapData, form, setOptions } = useAppStore(
+  const { mapData, form, setOptions, updateForm } = useAppStore(
     useShallow((s) => {
       return {
         mapData: s.mapData,
         form: s.form,
         setOptions: s.setOptions,
+        updateForm: s.updateForm,
       };
     })
   );
@@ -122,7 +123,16 @@ export const useMapData = (type: InterventionType) => {
         ).map((value) => ({ value, label: value })),
       })),
     });
-  }, [currentInterVentionMapData, setOptions]);
+    updateForm({
+      countries,
+      studies: [studys[0]],
+      health: [healths[0]],
+      settings: [settings[0]],
+      populations: [popluations[0]],
+      subFilterKey: "total",
+      subFilterValue: "total",
+    });
+  }, [currentInterVentionMapData, setOptions, updateForm]);
 
   useEffect(() => {
     if (!hasUpdateOptions && currentInterVentionMapData.length) {
@@ -136,7 +146,5 @@ export const useMapData = (type: InterventionType) => {
     setHasUpdateOptions,
   ]);
 
-  console.log("filteredMapData", filteredMapData);
-
-  return filteredMapData;
+  return { mapData: filteredMapData, resetOptions: updateOpitons };
 };

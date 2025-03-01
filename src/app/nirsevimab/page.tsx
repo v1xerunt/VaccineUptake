@@ -6,7 +6,7 @@ import { useMapData } from "../hooks/useMapData";
 import { InterventionType } from "@/types/app";
 
 export default function Page() {
-  const mapData = useMapData(InterventionType.NIRSEVIMAB);
+  const { mapData } = useMapData(InterventionType.NIRSEVIMAB);
   return (
     <div className="flex flex-1">
       <WorldMap loadingText={config.loadingText} mapData={mapData} />
