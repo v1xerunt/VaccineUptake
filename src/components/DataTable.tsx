@@ -21,7 +21,6 @@ import {
 } from "@tanstack/react-table";
 import { ArrowUpDown } from "lucide-react";
 import { useState } from "react";
-import { useMapData } from "../app/hooks/useMapData";
 
 const columns: ColumnDef<IData>[] = [
   {
@@ -31,6 +30,12 @@ const columns: ColumnDef<IData>[] = [
   {
     id: "details",
     accessorKey: "details",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").study,
+    header: "Study",
+  },
+  {
+    id: "details1",
+    accessorKey: "details",
     cell: ({ row }) => row.getValue<IData["details"]>("details").city,
     header: "City or state",
   },
@@ -38,16 +43,28 @@ const columns: ColumnDef<IData>[] = [
     id: "details2",
     accessorKey: "details",
     cell: ({ row }) => row.getValue<IData["details"]>("details").population,
-    header: "population",
+    header: "Overall age",
   },
   {
     id: "details3",
+    accessorKey: "details",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").healthStatus,
+    header: "Health status",
+  },
+  {
+    id: "details4",
+    accessorKey: "details",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").setting,
+    header: "Setting",
+  },
+  {
+    id: "details5",
     accessorKey: "details",
     cell: ({ row }) =>
       `${row.getValue<IData["details"]>("details").subFilterKey} : ${
         row.getValue<IData["details"]>("details").subFilterValue
       }`,
-    header: "subgroup",
+    header: "Filter",
   },
   {
     accessorKey: "value",
@@ -57,7 +74,7 @@ const columns: ColumnDef<IData>[] = [
           variant="ghost"
           onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}
         >
-          Uptake outcome
+          uptake
           <ArrowUpDown className="ml-2 h-4 w-4" />
         </Button>
       );
@@ -66,12 +83,14 @@ const columns: ColumnDef<IData>[] = [
   },
 ];
 
-const DataTable = () => {
+interface IProps {
+  mapData: IData[];
+}
+
+const DataTable = ({ mapData }: IProps) => {
   const shouldRender = useAppStore(
     (s) => s.mode === EMode.TABLE || s.mode === EMode.BOTH
   );
-
-  const mapData = useMapData();
 
   const [sorting, setSorting] = useState<SortingState>([]);
 

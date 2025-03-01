@@ -40,13 +40,16 @@ async function processCSV() {
           // 在这里转换数据格式
           const processedData = {
             id: String(count++),
-            country: getCountry(data["Country"]), // 确保列名完全匹配
-            city: data["City or state"],
-            intervention: data["Intervention"],
-            population: data["Description of total population"],
-            subFilterKey: data["Subgroups"],
-            subFilterValue: data["Subgroup description"],
-            uptake: data["Uptake outcome"],
+            study: data.study,
+            healthStatus: data.health_status,
+            country: getCountry(data.country), // 确保列名完全匹配
+            city: data.city_or_state,
+            intervention: data.intervention,
+            population: data.overall_age,
+            setting: data.setting,
+            subFilterKey: data.filter,
+            subFilterValue: data.value,
+            uptake: data.uptake,
           };
           if (!processedData.country) return;
           results.push(processedData);

@@ -10,7 +10,9 @@ export enum EMode {
 interface IForm {
   countries: string[];
   cities?: string[];
-  intervention?: string;
+  studies?: string[];
+  health?: string[];
+  settings?: string[];
   populations?: string[];
   subFilterKey: string;
   subFilterValue: string;
@@ -19,6 +21,7 @@ export interface IAppStore {
   mode: EMode;
   setMode: (mode: EMode) => void;
   mapData: IData[];
+  originalData: Array<IData["details"]>;
   updateMap: () => void;
   countryOptions: Array<{
     value: string;
@@ -27,6 +30,9 @@ export interface IAppStore {
   }>;
   interventionOptions: Array<{ value: string; label: string }>;
   popluationOptions: Array<{ value: string; label: string }>;
+  studyOptions: Array<{ value: string; label: string }>;
+  healthOptions: Array<{ value: string; label: string }>;
+  settingOptions: Array<{ value: string; label: string }>;
   subFilterKeyOptions: Array<{
     value: string;
     label: string;
@@ -34,25 +40,42 @@ export interface IAppStore {
   }>;
   form: IForm;
   updateForm: (form: IForm) => void;
+  setOptions: (options: {
+    countryOptions: IAppStore["countryOptions"];
+    interventionOptions: IAppStore["interventionOptions"];
+    popluationOptions: IAppStore["popluationOptions"];
+    subFilterKeyOptions: IAppStore["subFilterKeyOptions"];
+    studyOptions: IAppStore["studyOptions"];
+    healthOptions: IAppStore["healthOptions"];
+    settingOptions: IAppStore["settingOptions"];
+  }) => void;
 }
 
 export const useAppStore = create<IAppStore>((set) => ({
   mode: EMode.MAP,
   setMode: (mode) => set({ mode }),
   mapData: [],
+  originalData: [],
   countryOptions: [],
   interventionOptions: [],
   popluationOptions: [],
+  studyOptions: [],
+  healthOptions: [],
+  settingOptions: [],
   subFilterKeyOptions: [],
   form: {
     countries: [],
-    intervention: "All",
-    subFilterKey: "TOTAL",
-    subFilterValue: "NA",
+    subFilterKey: "total",
+    subFilterValue: "total",
   },
   updateForm: (form) => {
     set({
       form,
+    });
+  },
+  setOptions: (options) => {
+    set({
+      ...options,
     });
   },
   updateMap: async () => {
@@ -61,56 +84,9 @@ export const useAppStore = create<IAppStore>((set) => ({
         process.env.NODE_ENV === "development" ? "" : "/vax-track"
       }/data/world-data.json`
     ).then((res) => res.json());
-    const countries = Array.from(
-      new Set(data.map((details) => details.country))
-    );
-    const interventions = Array.from(
-      new Set(data.map((details) => details.intervention))
-    );
-    const popluations = Array.from(
-      new Set(data.map((details) => details.population))
-    );
-    const subFilterKeys = Array.from(
-      new Set(data.map((details) => details.subFilterKey))
-    );
 
     set({
-      countryOptions: countries.map((country) => ({
-        value: country,
-        label: country,
-        cities: Array.from(
-          new Set(
-            data
-              .filter((details) => details.country === country)
-              .map((details) => details.city)
-          )
-        ).map((city) => ({ value: city, label: city })),
-      })),
-      interventionOptions: interventions.concat("All").map((intervention) => ({
-        value: intervention,
-        label: intervention,
-      })),
-      popluationOptions: popluations.map((population) => ({
-        value: population,
-        label: population,
-      })),
-      subFilterKeyOptions: subFilterKeys.map((key) => ({
-        value: key,
-        label: key,
-        options: Array.from(
-          new Set(
-            data
-              .filter((details) => details.subFilterKey === key)
-              .map((details) => details.subFilterValue)
-          )
-        ).map((value) => ({ value, label: value })),
-      })),
-      form: {
-        countries,
-        subFilterKey: "TOTAL",
-        intervention: "All",
-        subFilterValue: "NA",
-      },
+      originalData: data,
       mapData: data.map((details) => ({
         name: details.country,
         // uptake is a string with '%' sign, so we need to remove it

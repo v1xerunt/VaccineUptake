@@ -6,13 +6,13 @@ import { LoadingSpinner } from "./LoadingSpinner";
 import { IData } from "@/types/app";
 import { EMode, useAppStore } from "@/store/app";
 import { useShallow } from "zustand/react/shallow";
-import { useMapData } from "../app/hooks/useMapData";
 
 interface IProps {
   loadingText: string;
+  mapData: IData[];
 }
 
-export default function WorldMap({ loadingText }: IProps) {
+export default function WorldMap({ loadingText, mapData }: IProps) {
   const chartRef = useRef<HTMLDivElement>(null);
   const chartInstance = useRef<echarts.ECharts | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -25,8 +25,6 @@ export default function WorldMap({ loadingText }: IProps) {
       };
     })
   );
-
-  const mapData = useMapData();
 
   useEffect(() => {
     if (mode === EMode.TABLE || mapData.length === 0) return;
@@ -68,7 +66,7 @@ export default function WorldMap({ loadingText }: IProps) {
 
               return `  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
-                <div>Uptake outcome: ${value + "%"}</div>  
+                <div>uptake: ${value + "%"}</div>  
                 <div>Interverntion: ${data.details.intervention}</div>  
                 <div>Description of total population: ${
                   data.details.population
