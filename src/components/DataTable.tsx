@@ -21,7 +21,7 @@ import {
 } from "@tanstack/react-table";
 import { ArrowUpDown } from "lucide-react";
 import { useState } from "react";
-import { useMapData } from "../hooks/useMapData";
+import { useMapData } from "../app/hooks/useMapData";
 
 const columns: ColumnDef<IData>[] = [
   {

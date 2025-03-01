@@ -6,7 +6,7 @@ import { LoadingSpinner } from "./LoadingSpinner";
 import { IData } from "@/types/app";
 import { EMode, useAppStore } from "@/store/app";
 import { useShallow } from "zustand/react/shallow";
-import { useMapData } from "../hooks/useMapData";
+import { useMapData } from "../app/hooks/useMapData";
 
 interface IProps {
   loadingText: string;

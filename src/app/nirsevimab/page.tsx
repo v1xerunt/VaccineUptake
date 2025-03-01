@@ -1,9 +1,9 @@
 "use client";
 import { useAppStore } from "@/store/app";
-import DataTable from "../components/DataTable";
-import WorldMap from "../components/WorldMap";
 import config from "@/app/assets/config.json";
 import { useEffect } from "react";
+import WorldMap from "@/components/WorldMap";
+import DataTable from "@/components/DataTable";
 
 export default function Page() {
   const updateMap = useAppStore((s) => s.updateMap);
