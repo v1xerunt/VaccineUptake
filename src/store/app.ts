@@ -94,7 +94,7 @@ export const useAppStore = create<IAppStore>((set) => ({
   updateMap: async () => {
     const data: Array<IData["details"]> = await fetch(
       `${
-        process.env.NODE_ENV === "development" ? "" : "/vax-track"
+        process.env.NODE_ENV === "development" ? "" : "/VaccineUptake"
       }/data/world-data.json`
     ).then((res) => res.json());
 
