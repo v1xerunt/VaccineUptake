@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: process.env.NODE_ENV === "development" ? "" : "/vax-track",
+  basePath: process.env.NODE_ENV === "development" ? "" : "/VaccineUptake",
   redirects: async () => {
     return [
       {
