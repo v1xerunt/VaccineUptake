@@ -10,6 +10,11 @@ const nextConfig: NextConfig = {
         destination: "/nirsevimab",
         permanent: true,
       },
+      {
+        source: "/VaccineUptake",
+        destination: "/VaccineUptake/nirsevimab",
+        permanent: true,
+      },
     ];
   },
 };
