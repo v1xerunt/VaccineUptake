@@ -23,12 +23,12 @@ import { ArrowUpDown } from "lucide-react";
 import { useState } from "react";
 
 const columns: ColumnDef<IData>[] = [
-  {
-    id: "details11",
-    accessorKey: "details",
-    cell: ({ row }) => row.getValue<IData["details"]>("details").id,
-    header: "id",
-  },
+  // {
+  //   id: "details11",
+  //   accessorKey: "details",
+  //   cell: ({ row }) => row.getValue<IData["details"]>("details").id,
+  //   header: "id",
+  // },
   {
     accessorKey: "name",
     header: "Country",
@@ -115,7 +115,7 @@ const DataTable = ({ mapData }: IProps) => {
   if (!shouldRender) return null;
 
   return (
-    <div className="h-full grow shrink basis-0 p-4">
+    <div className="h-full grow shrink basis-0 p-6 overflow-y-auto max-h-[calc(100vh-4rem)]">
       <div className="rounded-md border">
         <Table>
           <TableHeader>

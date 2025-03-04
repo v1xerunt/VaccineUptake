@@ -24,13 +24,14 @@ export const useMapData = (type: InterventionType) => {
 
   const filteredMapData = useMemo(() => {
     return currentInterVentionMapData.filter((d) => {
-      if (form.countries.length && !form.countries.includes(d.details.country))
+      if (
+        form.countries.length &&
+        form.countries.every(
+          ([country, city]) =>
+            country !== d.details.country || city !== d.details.city
+        )
+      )
         return false;
-      if (!form.showCities) {
-        if (d.details.city !== "NA") return false;
-      } else {
-        if (d.details.city === "NA") return false;
-      }
 
       if (
         form.populations?.length &&
@@ -83,18 +84,20 @@ export const useMapData = (type: InterventionType) => {
     const settings = Array.from(
       new Set(currentInterVentionMapData.map(({ details }) => details.setting))
     );
+
+    const countryOptions = countries.map((country) => ({
+      value: country,
+      label: country,
+      cities: Array.from(
+        new Set(
+          currentInterVentionMapData
+            .filter(({ details }) => details.country === country)
+            .map(({ details }) => details.city)
+        )
+      ).map((city) => ({ value: city, label: city })),
+    }));
     setOptions({
-      countryOptions: countries.map((country) => ({
-        value: country,
-        label: country,
-        cities: Array.from(
-          new Set(
-            currentInterVentionMapData
-              .filter(({ details }) => details.country === country)
-              .map(({ details }) => details.city)
-          )
-        ).map((city) => ({ value: city, label: city })),
-      })),
+      countryOptions,
       interventionOptions: interventions.concat("All").map((intervention) => ({
         value: intervention,
         label: intervention,
@@ -125,12 +128,9 @@ export const useMapData = (type: InterventionType) => {
       })),
     });
     updateForm({
-      countries,
-      showCities: false,
-      studies: [studys[0]],
-      health: [healths[0]],
-      settings: [settings[0]],
-      populations: [popluations[0]],
+      countries: countryOptions.reduce<Array<[string, string]>>((acc, curr) => {
+        return acc.concat(curr.cities.map((city) => [curr.value, city.value]));
+      }, []),
       subFilterKey: "total",
       subFilterValue: "total",
     });

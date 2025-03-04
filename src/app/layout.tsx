@@ -3,6 +3,7 @@ import ModeSwitch from "../components/ModeSwitch";
 import { FilterPanel } from "../components/SearchFilter";
 import config from "@/app/assets/config.json";
 import "@/app/globals.css";
+import { Button } from "@/components/ui/button";
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -16,7 +17,14 @@ export default function RootLayout({
             <header className="flex justify-between">
               <h1 className="text-2xl font-bold text-center">{config.title}</h1>
               <FilterTabs />
-              <ModeSwitch />
+              <div className="flex items-center gap-4">
+                <ModeSwitch />
+                <Button>
+                  <a href="/data/raw/data.csv" download>
+                    Download CSV
+                  </a>
+                </Button>
+              </div>
             </header>
           </div>
           <div className="flex-1 flex">

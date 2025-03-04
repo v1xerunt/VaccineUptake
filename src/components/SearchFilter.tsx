@@ -2,14 +2,8 @@
 
 import type React from "react";
 
-import { useEffect, useState } from "react";
-import {
-  ChevronDown,
-  ChevronUp,
-  Map,
-  CalendarDays,
-  Filter,
-} from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
+import { ChevronDown, ChevronUp, Filter } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 import {
@@ -19,7 +13,6 @@ import {
 } from "@/components/ui/collapsible";
 
 import { IForm, useAppStore } from "@/store/app";
-import { MultiSelectDropdown } from "./multi-select";
 import {
   Select,
   SelectContent,
@@ -27,7 +20,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./ui/select";
-import { Switch } from "./ui/switch";
+import Cascader from "./cascader";
 
 export function FilterPanel() {
   const updateMap = useAppStore((s) => s.updateMap);
@@ -36,17 +29,24 @@ export function FilterPanel() {
   }, [updateMap]);
 
   const formValues = useAppStore((s) => s.form);
+  console.log("formValues", formValues);
   const resetForm = useAppStore((s) => s.updateForm);
   const updateForm = useAppStore((s) => s.updateSingleFormItem);
   const countryOptions = useAppStore((s) => s.countryOptions);
-  const populationOptions = useAppStore((s) => s.popluationOptions);
-  const studyOptions = useAppStore((s) => s.studyOptions);
-  const healthOptions = useAppStore((s) => s.healthOptions);
-  const settingOptions = useAppStore((s) => s.settingOptions);
   const subFilterKeyOptions = useAppStore((s) => s.subFilterKeyOptions);
 
+  const dealedCountryOptions = useMemo(
+    () =>
+      countryOptions.map((option) => ({
+        label: option.label,
+        value: option.value,
+        children: option.cities,
+      })),
+    [countryOptions]
+  );
+
   const upateSingleFormItem =
-    (key: keyof IForm) => (value: string | string[] | boolean) => {
+    (key: keyof IForm) => (value: string | string[] | string[][]) => {
       updateForm(key, value);
     };
 
@@ -69,8 +69,9 @@ export function FilterPanel() {
   // Handle reset
   const handleReset = () => {
     resetForm({
-      countries: countryOptions.map((option) => option.value),
-      showCities: false,
+      countries: countryOptions.reduce<Array<[string, string]>>((acc, curr) => {
+        return acc.concat(curr.cities.map((city) => [curr.value, city.value]));
+      }, []),
       subFilterKey: "total",
       subFilterValue: "total",
     });
@@ -102,55 +103,11 @@ export function FilterPanel() {
           <CollapsibleContent className="px-4 pb-4 space-y-4">
             <div className="space-y-2">
               <label className="text-sm font-medium">Countries</label>
-              <MultiSelectDropdown
-                options={countryOptions}
-                selected={formValues.countries}
-                setSelected={upateSingleFormItem("countries")}
+              <Cascader
+                options={dealedCountryOptions}
                 placeholder="Select Countries"
-                icon={<Map className="h-4 w-4 text-muted-foreground" />}
-              />
-            </div>
-
-            <div className="space-y-2">
-              <label className="text-sm font-medium">Overall age</label>
-              <MultiSelectDropdown
-                options={populationOptions}
-                selected={formValues.populations ?? []}
-                setSelected={upateSingleFormItem("populations")}
-                placeholder="Select overall age"
-                icon={
-                  <CalendarDays className="h-4 w-4 text-muted-foreground" />
-                }
-              />
-            </div>
-
-            <div className="space-y-2">
-              <label className="text-sm font-medium">Studies</label>
-              <MultiSelectDropdown
-                options={studyOptions}
-                selected={formValues.studies ?? []}
-                setSelected={upateSingleFormItem("studies")}
-                placeholder="Select studies"
-              />
-            </div>
-
-            <div className="space-y-2">
-              <label className="text-sm font-medium">Health Status</label>
-              <MultiSelectDropdown
-                options={healthOptions}
-                selected={formValues.health ?? []}
-                setSelected={upateSingleFormItem("health")}
-                placeholder="Select health status"
-              />
-            </div>
-
-            <div className="space-y-2">
-              <label className="text-sm font-medium">Settings</label>
-              <MultiSelectDropdown
-                options={settingOptions}
-                selected={formValues.settings ?? []}
-                setSelected={upateSingleFormItem("settings")}
-                placeholder="Select settings"
+                value={formValues.countries}
+                onChange={upateSingleFormItem("countries")}
               />
             </div>
           </CollapsibleContent>
@@ -212,22 +169,6 @@ export function FilterPanel() {
             </div>
           </CollapsibleContent>
         </Collapsible>
-        <div className="border rounded-md p-4 space-y-4 bg-card">
-          <h3 className="font-medium">Display Options</h3>
-
-          <div className="flex items-center justify-between">
-            <div className="space-y-0.5">
-              <label className="text-sm font-medium">Show Cities</label>
-              <p className="text-xs text-muted-foreground">
-                Display cities data
-              </p>
-            </div>
-            <Switch
-              checked={formValues.showCities}
-              onCheckedChange={upateSingleFormItem("showCities")}
-            />
-          </div>
-        </div>
       </div>
 
       <div className="border-t p-4 flex justify-between gap-2 bg-background sticky bottom-0">

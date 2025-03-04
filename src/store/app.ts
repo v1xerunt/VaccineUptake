@@ -8,8 +8,7 @@ export enum EMode {
 }
 
 export interface IForm {
-  countries: string[];
-  showCities: boolean;
+  countries: Array<string[]>;
   studies?: string[];
   health?: string[];
   settings?: string[];
@@ -56,7 +55,7 @@ export interface IAppStore {
 }
 
 export const useAppStore = create<IAppStore>((set) => ({
-  mode: EMode.MAP,
+  mode: EMode.BOTH,
   setMode: (mode) => set({ mode }),
   mapData: [],
   originalData: [],
@@ -69,7 +68,6 @@ export const useAppStore = create<IAppStore>((set) => ({
   subFilterKeyOptions: [],
   form: {
     countries: [],
-    showCities: false,
     subFilterKey: "total",
     subFilterValue: "total",
   },

@@ -99,19 +99,36 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
               }
 
               return (
-                `  
+                `
+                <div>  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
                 <div>uptake: ${value + "%"}</div>
                 <br />
-                ` +
+                <table style="width: 100%;">
+                <thead>
+                  <tr class="bg-gray-50 border-b border-gray-200">
+                  <th class="px-6 py-3 text-left">Region</th>
+                  <th class="px-6 py-3 text-left">Uptake</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                  ` +
                 mapData
                   .filter((item) => item.name === name)
                   .map(
                     (item) => `
-                      <div>${item.details.city}: ${item.details.uptake}</div>
+                      <tr class="bg-white border-b border-gray-200">
+                  <td class="px-6 py-4">${item.details.city}</td>
+                  <td class="px-6 py-4">${item.details.uptake}</td>
+                  </tr>
                     `
                   )
-                  .join("")
+                  .join("") +
+                `
+                </tbody>
+                </table>
+                </div>
+                `
               );
             },
           },
@@ -226,7 +243,7 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
   }
 
   return (
-    <div className="h-full grow-[2] shrink-[2] basis-0 relative">
+    <div className="h-full grow shrink basis-0 relative">
       {isLoading && (
         <div className="absolute inset-0 flex items-center justify-center bg-white bg-opacity-90 z-10">
           <LoadingSpinner loadingText={loadingText} />
