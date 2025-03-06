@@ -1,0 +1,437 @@
+﻿study,intervention,description,country,city_or_state,overall_age,setting,health_status,filter,value,uptake
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,age_group,less_than_3_months ,65.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,age_group,3_to_6_months ,51.10%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,age_group,6_to_12_months ,54.80%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,comorbidity_no,54.20%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,preterm_birth_yes,79.50%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,cardiac_comorbidity,60.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,lung_comorbidity,100.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,neuro_comorbidity,66.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,comorbidity,other_comorbidity,20.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,sex,male,63.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,sex,female,54.40%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Andorra,NA,under_6_months,hospital,all_ARI,total,total,60.20%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old,France,Paris,under_12_months,emergency,other,age_group,less_than_3_months ,58.20%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old,France,Paris,under_12_months,emergency,other,age_group,3_to_6_months ,37.60%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old,France,Paris,under_12_months,emergency,other,age_group,6_to_12_months ,18.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old,France,Paris,under_12_months,emergency,other,total,total,36.50%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old at emergency department with RSV-associated bronchiolitis,France,Paris,under_12_months,emergency,rsv_ARI,age_group,less_than_3_months ,23.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old at emergency department with RSV-associated bronchiolitis,France,Paris,under_12_months,emergency,rsv_ARI,age_group,3_to_6_months ,2.90%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old at emergency department with RSV-associated bronchiolitis,France,Paris,under_12_months,emergency,rsv_ARI,age_group,6_to_12_months ,0.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old at emergency department with RSV-associated bronchiolitis,France,Paris,under_12_months,emergency,rsv_ARI,total,total,11.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due all-cause bronchiolitis,France,Paris,under_12_months,hospital,all_ARI,age_group,less_than_3_months ,37.60%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due all-cause bronchiolitis,France,Paris,under_12_months,hospital,all_ARI,age_group,3_to_6_months ,12.40%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due all-cause bronchiolitis,France,Paris,under_12_months,hospital,all_ARI,age_group,6_to_12_months ,13.40%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due all-cause bronchiolitis,France,Paris,under_12_months,hospital,all_ARI,total,total,23.60%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due to RSV-associated bronchiolitis,France,Paris,under_12_months,hospital,rsv_ARI,age_group,less_than_3_months ,23.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due to RSV-associated bronchiolitis,France,Paris,under_12_months,hospital,rsv_ARI,age_group,3_to_6_months ,3.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due to RSV-associated bronchiolitis,France,Paris,under_12_months,hospital,rsv_ARI,age_group,6_to_12_months ,0.00%
+Carbajal et al. (2024),nirsevimab,Infants under 12 months old hospitalised due to RSV-associated bronchiolitis,France,Paris,under_12_months,hospital,rsv_ARI,total,total,11.50%
+Consolati et al. (2024),nirsevimab,Infants born between 1 May 2023 and 15 Feb 2024,Italy,Valle d' Aosta,under_10_months ,community,healthy,total,total,68.70%
+Consolati et al. (2024),nirsevimab,Infants born between 1 May 2023 and 15 Feb 2025,Italy,Valle d' Aosta,under_10_months ,community,healthy,enrolment,season,86.50%
+Consolati et al. (2024),nirsevimab,Infants born between 1 May 2023 and 15 Feb 2026,Italy,Valle d' Aosta,under_10_months ,community,healthy,enrolment,catch,65.20%
+Ernst et al. (2024),nirsevimab,Newborns at maternity wards (Oct to mid-Dec 2023),Luxembourg,NA,under_3_months ,community,healthy,enrolment,catch,83.80%
+Martinon-Torres et al. (2024),nirsevimab,Children 6-24 months old at the start of the RSV season with risk conditions,Spain,Galicia,under_24_months ,community,healthy,enrolment,risk,97.50%
+Martinon-Torres et al. (2024),nirsevimab,Infants 0-6 months old at the start of the RSV season (1st Oct),Spain,Galicia,under_6_months,community,healthy,total,total,81.40%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,age_group,less_than_3_months ,92.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,age_group,3_to_6_months ,86.00%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,age_group,less_than_3_months ,92.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,age_group,3_to_6_months ,86.00%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,sex,male,90.20%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,sex,female,84.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,sex,male,90.20%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,sex,female,84.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,comorbidity,preterm_birth_yes,88.90%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,daycare_yes,daycare_yes,83.30%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,enrolment,season,90.60%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,enrolment,catch,87.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,siblings_yes,siblings_yes,88.60%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,comorbidity,preterm_birth_yes,88.90%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,daycare_yes,daycare_yes,83.30%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,enrolment,season,90.60%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,enrolment,catch,87.50%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,siblings_yes,siblings_yes,88.60%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Valencia,under_10_months ,primary,all_ARI,total,total,88.10%
+Lopez-Lacort et al. (2025),nirsevimab,Infants under 10 months old with lower respiratory tract infection at primary care,Spain,Murcia,under_10_months ,primary,all_ARI,total,total,88.10%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,age_group,less_than_3_months ,95.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,age_group,3_to_6_months ,90.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,age_group,6_to_12_months ,88.30%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,preterm_birth_yes,93.90%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,preterm_birth_under35,95.60%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,preterm_birth_under29,100.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,cardiac_comorbidity,98.50%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,lung_comorbidity,97.40%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,immunosuppression,90.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,metabolic_comorbidity,92.90%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,neuro_comorbidity,100.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,lung_comorbidity,100.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,genetic_comorbidity,90.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,genetic_comorbidity,100.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,comorbidity,palliative_care,100.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,enrolment,season,95.40%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,enrolment,catch,89.90%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,enrolment,risk,96.70%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,healthy_programme,healthy_at_least_one,92.50%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,healthy_programme,healthy_none,81.70%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,region,north,92.00%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_12_months,community,healthy,region,south,91.30%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Madrid,under_12_months,community,healthy,birth_type,single,79.90%
+Ares-Gomez et al. (2024),nirsevimab,Infants under 6 months old,Spain,Madrid,under_12_months,community,healthy,birth_type,multiple,86.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_under29,78.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_under35,86.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_yes,81.90%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_no,80.00%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_no,53.30%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,comorbidity_no,79.80%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,comorbidity_yes,83.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,preterm_birth_under35,84.70%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,lung_comorbidity,78.80%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,cardiac_comorbidity,80.00%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,immunosuppression,81.30%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,metabolic_comorbidity,84.10%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,neuro_comorbidity,79.50%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,comorbidity,palliative_care,100.00%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,up_to_10 ,64.70%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,11_to_30 ,72.10%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,31_to_50 ,78.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,51_to_70 ,85.60%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,71_to_90 ,89.30%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 12 months old,Spain,Madrid,under_12_months,community,healthy,income,91_to_100 ,90.20%
+Coma et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_6_months,community,healthy,sex,female,92.00%
+Coma et al. (2024),nirsevimab,Infants under 6 months old,Spain,Galicia,under_6_months,community,healthy,sex,male,91.40%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 6 months old,Spain,Madrid,under_12_months,community,healthy,sex,female,79.70%
+Coma et al. (2024),nirsevimab,Infants under 6 months old,Spain,Catalonia,under_6_months,community,healthy,nationality,spanish,87.80%
+Coma et al. (2024),nirsevimab,Infants under 6 months old,Spain,Catalonia,under_6_months,community,healthy,residential_area,rural,86.10%
+Barbas del Buey et al. (2024),nirsevimab,Infants under 6 months old,Spain,Madrid,under_12_months,community,healthy,sex,male,80.50%
+Coma et al. (2024),nirsevimab,Infants under 6 months old,Spain,Catalonia,under_6_months,community,healthy,sex,male,87.30%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,sex,male,88.30%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,sex,female,88.80%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,birth_weight,underweight_no,88.60%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,birth_weight,underweight_yes,75.00%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,comorbidity,term_birth,88.50%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,comorbidity,preterm_birth,88.40%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,enrolment,catch,86.50%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,enrolment,season,92.10%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,maternal,maternal_feed_yes ,88.30%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,maternal,maternal_feed_no ,89.00%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,maternity_service,private,82.60%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,maternity_service,non_private,90.20%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,nationality,spanish,91.70%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,nationality,non_spanish,83.90%
+Estrella-Porter et al. (2024),nirsevimab,Infants under 6 months old,Spain,Valencia,under_6_months,community,healthy,total,total,88.50%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,comorbidity,comorbidity_no,58.80%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,comorbidity,preterm_birth_yes,84.60%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,comorbidity,cardiac_comorbidity,100.00%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,comorbidity,neuro_comorbidity,50.00%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,sex,male,73.30%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,sex,female,59.10%
+Alejandre et al. (2024),nirsevimab,Infants under 6 months old admitted to pediatric intensive care unit,Spain,Catalonia,under_6_months,picu,all_ARI,total,total,67.30%
+Molina Gutierrez et al. (2024),nirsevimab,Infants under 6 months old at A&E with RSV infection,Spain,Madrid,under_6_months,emergency,rsv_ARI,total,total,36.50%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,age_group,less_than_3_months ,65.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,age_group,3_to_6_months ,51.10%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,age_group,6_to_12_months ,54.80%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,comorbidity_no,54.20%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,preterm_birth_yes,79.50%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,cardiac_comorbidity,60.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,lung_comorbidity,100.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,neuro_comorbidity,66.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,comorbidity,other_comorbidity,20.00%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,sex,male,63.70%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,sex,female,54.40%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,total,total,60.20%
+Aguera et al. (2024),nirsevimab,Infants under 6 months old hospitalised with bronchiolitis,Spain,NA,under_6_months,hospital,all_ARI,total,total,54.40%
+Lopez-Lacort et al. (2024),nirsevimab,Infants under 9 months old,Spain,Valencia,under_10_months ,community,healthy,total,total,90.00%
+Lopez-Lacort et al. (2024),nirsevimab,Infants under 9 months old,Spain,Murcia,under_10_months ,community,healthy,total,total,90.00%
+Lopez-Lacort et al. (2024),nirsevimab,Infants under 9 months old,Spain,Valladolid,under_10_months ,community,healthy,total,total,90.00%
+Ezpeleta et al. (2024),nirsevimab,Newborns immmunised at birth (Oct - Dec 2023),Spain,Navarre,under_3_months ,community,healthy,sex,male,92.20%
+Ezpeleta et al. (2024),nirsevimab,Newborns immmunised at birth (Oct - Dec 2023),Spain,Navarre,under_3_months ,community,healthy,sex,female,91.70%
+Ezpeleta et al. (2024),nirsevimab,Newborns immmunised at birth (Oct - Dec 2023),Spain,Navarre,under_3_months ,community,healthy,total,total,92.00%
+Martinon-Torres et al. (2024),nirsevimab,Newborns immunised at hospital within the first 24h of life,Spain,Galicia,under_3_months ,community,healthy,total,total,92.60%
+Lefferts et al. (2024),nirsevimab,American Indian or Alaska Native children <20 months old,USA,Alaska,under_24_months ,hospital,all_ARI,total,total,47.50%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,less_than_3_months ,9.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,less_than_3_months ,8.40%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,3_to_6_months ,6.90%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,3_to_6_months ,5.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,6_to_12_months ,9.40%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,6_to_12_months ,26.10%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,age_group,6_to_12_months ,33.30%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,sex,female,9.60%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,sex,male,7.60%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,comorbidity,preterm_birth_yes,10.30%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,comorbidity,preterm_birth_no,8.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,comorbidity,comorbidity_yes,46.20%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,comorbidity,comorbidity_no,6.20%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,alaska_native,0.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,asian,6.40%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,black,9.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,hawaiian_native,10.20%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,white,16.70%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,hispanic,0.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,multiple_other,6.40%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,ethnicity,unknown,10.50%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,insurance,public,9.60%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,insurance,private,7.30%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,insurance,public_and_private ,25.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,insurance,no_insurance,7.80%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,insurance,unknown_insurance,0.00%
+Moline et al. (2024),nirsevimab,Infants under 12 months old hospitalised with acute respiratory infection,USA,NA,under_12_months,hospital,all_ARI,total,total,8.40%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,ethnicity,black,51.10%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,ethnicity,white,44.20%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,ethnicity,hispanic,43.90%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,ethnicity,multiple_other,38.50%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,insurance,private,43.10%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,insurance,public,46.90%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,insurance,no_insurance,0.00%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,maternal_age,maternal_age_35_to_49 ,48.40%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,maternal_age,maternal_age_25_to_34 ,42.50%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,maternal_age,maternal_age_18_to_24 ,46.50%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,education,maternal_edu_highest ,37.20%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,education,maternal_edu_college_degree ,46.20%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,education,maternal_edu_college ,45.30%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,education,maternal_edu_high_school ,45.00%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,employment,maternal_employ_yes ,48.50%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,employment,maternal_employ_no ,38.70%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,poverty_status,above_poverty,44.50%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,poverty_status,below_poverty,44.70%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,provider,provider_yes,58.70%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,provider,provider_no ,28.30%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,region,northeast,44.00%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,region,midwest,48.70%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,region,south,47.40%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,region,west,36.60%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,residential_area,urban,44.70%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,residential_area,rural,43.90%
+Razzaghi et al. (2024),nirsevimab,Infants under 2 months old,USA,NA,under_3_months ,community,healthy,total,total,44.60%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,sex,male,69.60%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,sex,female,73.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,comorbidity,cardiac_comorbidity,88.90%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,comorbidity,lung_comorbidity,77.80%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,discharge_age,less_than_3_days ,69.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,discharge_age,3_or_more_days ,76.40%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,discharge_unit,newborn_nursery ,69.10%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,discharge_unit,intermediate_nursery ,84.40%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,discharge_unit,neonatal_icu ,68.80%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,hispanic,75.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,asian,74.50%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,white,66.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,multiple_other,56.50%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,multiple_other,73.80%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,ethnicity,unknown,65.90%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,hep_b_vaccine_yes,hep_b_vaccine_yes,75.90%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,insurance,private,71.80%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,insurance,public,71.50%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,insurance,unknown_insurance,33.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,language,english,68.30%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,language,spanish,80.40%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,language,other,70.00%
+Puckett et al. (2024),nirsevimab,Infants under 8 months of old ,USA,California,under_10_months ,community,healthy,total,total,70.80%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,sex,male,10.80%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,sex,female,10.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,sex,male,10.80%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,sex,female,10.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,sex,male,10.80%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,sex,female,10.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,comorbidity,preterm_birth_yes,21.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,comorbidity,lung_comorbidity,12.20%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,comorbidity,cardiac_comorbidity,21.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,comorbidity,anemia,11.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,comorbidity,comorbidity_yes,16.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,ethnicity,hispanic,10.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,ethnicity,white,8.30%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,ethnicity,black,16.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,ethnicity,multiple_other,14.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,ethnicity,unknown,5.60%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,insurance,private,7.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,insurance,public,12.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,insurance,no_insurance,0.00%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,comorbidity,preterm_birth_yes,21.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,comorbidity,lung_comorbidity,12.20%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,comorbidity,cardiac_comorbidity,21.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,comorbidity,anemia,11.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,comorbidity,comorbidity_yes,16.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,ethnicity,hispanic,10.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,ethnicity,white,8.30%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,ethnicity,black,16.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,ethnicity,multiple_other,14.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,ethnicity,unknown,5.60%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,insurance,private,7.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,insurance,public,12.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,insurance,no_insurance,0.00%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,comorbidity,preterm_birth_yes,21.50%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,comorbidity,lung_comorbidity,12.20%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,comorbidity,cardiac_comorbidity,21.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,comorbidity,anemia,11.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,comorbidity,comorbidity_yes,16.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,ethnicity,hispanic,10.40%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,ethnicity,white,8.30%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,ethnicity,black,16.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,ethnicity,multiple_other,14.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,ethnicity,unknown,5.60%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,insurance,private,7.90%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,insurance,public,12.10%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,insurance,no_insurance,0.00%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Connecticut,under_10_months ,hospital,all_ARI,total,total,10.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,New York,under_10_months ,hospital,all_ARI,total,total,10.70%
+Xu et al. (2024),nirsevimab,Infants under 8 months old with acute respiratory infection receiving medical care,USA,Rhode Island,under_10_months ,hospital,all_ARI,total,total,10.70%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,total,total,8.92%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,age_group,60_to_64,4.84%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,age_group,65_to_74,8.03%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,age_group,75_or_more,10.29%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,sex,male,8.81%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,sex,female,9.02%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,white,10.19%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,hispanic,4.78%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,black,4.48%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,multiple_other,6.80%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,unknown,3.28%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,socioeconomic,quartile_1,10.34%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,socioeconomic,quartile_2,9.00%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,socioeconomic,quartile_3,7.04%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,socioeconomic,quartile_4,5.43%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,socioeconomic,quartile_missing,10.12%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,outcome,icu,7.85%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,outcome,hospital_death,6.72%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidities_count,none,5.97%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidities_count,one,7.67%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidities_count,2_to_3,9.16%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidities_count,4_or _more,9.41%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,lung_comorbidity,10.40%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,non_lung_comorbidity,9.07%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,cardiac_comorbidity,9.17%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,cerebro_comorbidity,6.69%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,neuro_comorbidity,8.62%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,haematologic_comorbidity,9.71%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,metabolic_endo_comorbidity,9.41%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,renal_disease,8.72%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,gastro_comorbidity,7.52%
+Payne (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,immunosuppression,9.72%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,total,total,8.37%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,age_group,60_to_64,3.56%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,age_group,65_to_74,7.70%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,age_group,75_or_more,10.35%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,sex,male,8.19%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,sex,female,8.51%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,ethnicity,white,9.96%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,ethnicity,hispanic,4.82%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,ethnicity,black,4.08%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,ethnicity,multiple_other,6.78%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,ethnicity,unknown,3.72%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,socioeconomic,quartile_1,10.31%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,socioeconomic,quartile_2,9.17%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,socioeconomic,quartile_3,7.04%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,socioeconomic,quartile_4,5.35%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,socioeconomic,quartile_missing,8.17%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidities_count,none,7.99%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidities_count,one,8.56%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidities_count,2_to_3,9.21%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidities_count,4_or _more,9.11%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,lung_comorbidity,9.87%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,non_lung_comorbidity,8.39%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,cardiac_comorbidity,8.50%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,cerebro_comorbidity,6.06%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,neuro_comorbidity,7.35%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,haematologic_comorbidity,11.50%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,metabolic_endo_comorbidity,8.62%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,renal_disease,8.20%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,gastro_comorbidity,9.67%
+Payne (2024),RSV vaccine for older adults,>=60 at ED with RSV-like illness,USA,NA,60_years_or_more,emergency,rsv_ARI,comorbidity,immunosuppression,10.30%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,total,total,32.60%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,maternal_age,35_to_49,37.40%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,maternal_age,25_to_34,28.90%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,maternal_age,18_to_24,39.10%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,ethnicity,black,36.40%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,ethnicity,white,33.80%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,ethnicity,hispanic,29.30%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,ethnicity,multiple_other,29.90%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,education,maternal_edu_highest ,50.10%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,education,maternal_edu_college_degree ,32.70%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,education,maternal_edu_college ,30.00%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,education,maternal_edu_high_school ,28.70%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,employment,maternal_employ_yes,35.70%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,employment,maternal_employ_no,28.20%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,poverty_status,above_poverty,35.00%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,poverty_status,below_poverty,26.40%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,residential_area,urban,33.10%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,residential_area,rural,30.50%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,region,northeast,38.60%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,region,midwest,36.80%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,region,south,29.90%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,region,west,30.10%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,insurance,private,38.90%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,insurance,public,28.00%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,insurance,no_insurance,0.00%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,provider,provider_yes,56.70%
+Razzaghi (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NA,32_to_36_wga,community,healthy,provider,provider_no,1.90%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,total,total,9.80%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_1,8.20%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_2,7.10%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_3,10.00%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_4,5.90%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_5,12.70%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_6,9.20%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_7,15.50%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_8,24.80%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_9,10.10%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_10,11.70%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_low,10.70%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_medium,10.00%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_high,8.70%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,under_59,15.30%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,59_to_94,9.30%
+Reses (2023),RSV vaccine for older adults,>=60 years at nursing home (in 19.4% of CMS-certified nursing homes in the USA; 10 Dec 2023),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,95_or_more,8.00%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,total,total,17.92%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_1,20.12%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_2,19.76%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_3,19.21%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_4,12.07%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_5,21.56%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_6,9.32%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_7,22.40%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_8,29.21%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_9,19.93%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,US_HHS,HHS_10,20.72%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_low,21.29%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_medium,17.48%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,SVI,SVI_high,15.31%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,under_59,24.09%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,59_to_94,17.69%
+Reses (2024),RSV vaccine for older adults,>=60 years at nursing home (in 51.8% of CMS-certified nursing homes in the USA; 10 Nov 2024),USA,NA,60_years_or_more,nursing_home,healthy,facility_size,95_or_more,15.93%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,total,total,34.01%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,asian,32.52%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,black,22.68%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,white,36.63%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,other,26.21%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,multiple,36.36%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,hispanic,24.75%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,ethnicity,non_hispanic,34.67%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,insurance,public,13.25%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,insurance,private,37.76%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,smoking_status,former_or_current_smoker,37.55%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,drug_use_in_pregancy,drug_use_in_pregancy,39.02%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,high_BMI,32.18%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,chronic_hypertension,50.00%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,asthma,32.70%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,SLE,22.22%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,IBD,30.66%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,pregestational_diabetes,18.92%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,comorbidity,gestational_diabetes,31.61%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,pregnancy_outcome,IVF_pregnancy,44.49%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,pregnancy_outcome,nulliparous,35.58%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,pregnancy_outcome,cesarean_delivery,33.99%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,infant_sex,female,34.80%
+Son (2024),RSV maternal vaccine,Pregnant women at 32-36 wks gestation,USA,NYC,32_to_36_wga,hospital,healthy,infant_sex,male,33.27%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,total,total,8.90%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,age_group,60_to_74,6.95%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,age_group,75_or_more,11.70%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,sex,female,8.46%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,sex,male,9.36%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,black,3.09%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,hispanic,4.78%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,white,11.73%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,multiple_other,6.93%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,ethnicity,unknown,5.38%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,comorbidity_yes,8.95%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,comorbidity,immunosuppression,11.67%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,health_care_utilisation,long_term_care,6.05%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,health_care_utilisation,outpatient_visit_year_prior,9.41%
+Surie (2024),RSV vaccine for older adults,>=60 at hospitalised with RSV-like illness,USA,NA,60_years_or_more,hospital,rsv_ARI,health_care_utilisation,hospitalisation_year_prior,9.02%
