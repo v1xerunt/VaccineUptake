@@ -44,12 +44,6 @@ export const useMapData = (type: InterventionType) => {
         return false;
       if (form.settings?.length && !form.settings.includes(d.details.setting))
         return false;
-      if (form.subFilterKey !== d.details.subFilterKey) return false;
-      if (
-        form.subFilterValue &&
-        form.subFilterValue !== d.details.subFilterValue
-      )
-        return false;
       return true;
     });
   }, [currentInterVentionMapData, form]);

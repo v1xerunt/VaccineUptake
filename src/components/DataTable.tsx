@@ -43,34 +43,19 @@ const columns: ColumnDef<IData>[] = [
     id: "details1",
     accessorKey: "details",
     cell: ({ row }) => row.getValue<IData["details"]>("details").city,
-    header: "City or state",
+    header: "region",
   },
   {
     id: "details2",
     accessorKey: "details",
-    cell: ({ row }) => row.getValue<IData["details"]>("details").population,
-    header: "Overall age",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").immunised,
+    header: "immunised",
   },
   {
     id: "details3",
     accessorKey: "details",
-    cell: ({ row }) => row.getValue<IData["details"]>("details").healthStatus,
-    header: "Health status",
-  },
-  {
-    id: "details4",
-    accessorKey: "details",
-    cell: ({ row }) => row.getValue<IData["details"]>("details").setting,
-    header: "Setting",
-  },
-  {
-    id: "details5",
-    accessorKey: "details",
-    cell: ({ row }) =>
-      `${row.getValue<IData["details"]>("details").subFilterKey} : ${
-        row.getValue<IData["details"]>("details").subFilterValue
-      }`,
-    header: "Filter",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").total,
+    header: "total",
   },
   {
     accessorKey: "value",
@@ -85,7 +70,13 @@ const columns: ColumnDef<IData>[] = [
         </Button>
       );
     },
-    cell: ({ row }) => `${row.getValue("value")}%`,
+    cell: ({ row }) => {
+      const details = row.getValue<IData["details"]>("details");
+      const value = row.getValue("value");
+      return details.study === "Pooled uptake"
+        ? `${value}% (${details.CI_lower} - ${details.CI_upper})`
+        : `${value}%`;
+    },
   },
 ];
 

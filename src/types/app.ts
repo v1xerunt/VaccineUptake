@@ -12,14 +12,18 @@ export interface IData {
     setting: string;
     subFilterKey: string;
     subFilterValue: string;
+    total: string;
+    immunised: string;
     uptake: string;
+    CI_lower: string;
+    CI_upper: string;
   };
 }
 
 export enum InterventionType {
   NIRSEVIMAB = "nirsevimab",
-  OLD_ADULTS = "RSV vaccine for older adults",
-  MATERNAL = "RSV maternal vaccine",
+  OLD_ADULTS = "elderly_vaccine",
+  MATERNAL = "maternal_vaccine",
 }
 
 export enum EOverallAge {

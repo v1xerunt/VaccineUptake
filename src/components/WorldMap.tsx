@@ -91,10 +91,19 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
               const { name, value, data } = params;
               if (!data.details) return name;
 
-              if (mapData.length === 1) {
+              const cityData = mapData.filter(
+                (item) => item.name === name && !!item.details.city
+              );
+
+              const countryData = mapData.find(
+                (item) =>
+                  item.name === name && item.details.study === "Pooled uptake"
+              );
+
+              if (cityData.length === 0) {
                 return `  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
-                <div>uptake: ${value + "%"}</div>
+                <div>uptake: ${countryData?.details.uptake}</div>
                 `;
               }
 
@@ -102,7 +111,7 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
                 `
                 <div>  
                 <div style="font-weight: bold; margin-bottom: 5px;">${name}</div>  
-                <div>uptake: ${value + "%"}</div>
+                <div>uptake: ${countryData?.details.uptake}</div>
                 <br />
                 <table style="width: 100%;">
                 <thead>
@@ -113,8 +122,7 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
                 </thead>
                 <tbody class="divide-y divide-gray-200">
                   ` +
-                mapData
-                  .filter((item) => item.name === name)
+                cityData
                   .map(
                     (item) => `
                       <tr class="bg-white border-b border-gray-200">

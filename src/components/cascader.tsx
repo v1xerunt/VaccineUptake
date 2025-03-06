@@ -46,7 +46,10 @@ export default function Cascader({
     if (selectedValue.length === 1) {
       return getPathText(selectedValue[0]);
     }
-    return `${selectedValue.length} selected`;
+    const selectedCountries = selectedValue
+      .map((path) => path[0])
+      .filter((v, i, a) => a.indexOf(v) === i);
+    return `${selectedCountries.length} countries selected`;
   };
 
   // 清空选择

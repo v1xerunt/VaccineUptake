@@ -6,8 +6,8 @@ import { usePathname } from "next/navigation";
 
 const vaccineTypes = [
   { link: "/nirsevimab", tab: "Nirsevimab" },
-  { link: "/older-adults", tab: "RSV vaccine for older adults" },
-  { link: "/maternal", tab: "RSV maternal vaccine" },
+  { link: "/elderly_vaccine", tab: "Elderly Vaccine" },
+  { link: "/maternal_vaccine", tab: "Maternal Vaccine" },
 ];
 
 export function FilterTabs() {

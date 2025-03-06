@@ -20,7 +20,14 @@ export default function RootLayout({
               <div className="flex items-center gap-4">
                 <ModeSwitch />
                 <Button>
-                  <a href="/data/raw/data.csv" download>
+                  <a
+                    href={
+                      process.env.NODE_ENV === "development"
+                        ? "/data/raw/data.csv"
+                        : "/VaccineUptake/data/raw/data.csv"
+                    }
+                    download
+                  >
                     Download CSV
                   </a>
                 </Button>

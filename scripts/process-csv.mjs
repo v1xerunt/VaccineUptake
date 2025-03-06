@@ -43,12 +43,14 @@ async function processCSV() {
             study: data.study,
             healthStatus: data.health_status,
             country: getCountry(data.country), // 确保列名完全匹配
-            city: data.city_or_state,
+            city: data.region,
+            immunised: data.immunised,
+            total: data.total,
             intervention: data.intervention,
             population: data.overall_age,
             setting: data.setting,
-            subFilterKey: data.filter,
-            subFilterValue: data.value,
+            CI_lower: data.CI_lower,
+            CI_upper: data.CI_upper,
             uptake: data.uptake,
           };
           if (!processedData.country) return;
@@ -61,7 +63,17 @@ async function processCSV() {
     // 写入 JSON 文件
     fs.writeFileSync(
       JSON_OUTPUT_PATH,
-      JSON.stringify(results, null, 2),
+      JSON.stringify(
+        results.sort((a, b) =>
+          a.study === "Pooled uptake"
+            ? -1
+            : b.study === "Pooled uptake"
+            ? 1
+            : -1
+        ),
+        null,
+        2
+      ),
       "utf-8"
     );
 
