@@ -88,7 +88,7 @@ export default function WorldMap({ loadingText, mapData }: IProps) {
               value: number;
               data: IData;
             }) {
-              const { name, value, data } = params;
+              const { name, data } = params;
               if (!data.details) return name;
 
               const cityData = mapData.filter(
