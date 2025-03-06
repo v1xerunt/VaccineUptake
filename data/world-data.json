@@ -1,510 +1,558 @@
 [
   {
-    "id": "55",
+    "id": "68",
     "study": "Pooled uptake",
     "country": "United States",
     "city": "",
     "immunised": "",
     "total": "",
     "intervention": "elderly_vaccine",
-    "CI_lower": "6.6%",
-    "CI_upper": "20.0%",
-    "uptake": "11.8%"
+    "CI_lower": "6.60%",
+    "CI_upper": "20.00%",
+    "uptake": "11.80%"
   },
   {
-    "id": "46",
+    "id": "57",
     "study": "Pooled uptake",
     "country": "United States",
     "city": "",
     "immunised": "",
     "total": "",
     "intervention": "maternal_vaccine",
-    "CI_lower": "9.2%",
-    "CI_upper": "42.9%",
-    "uptake": "21.6%"
+    "CI_lower": "9.20%",
+    "CI_upper": "42.90%",
+    "uptake": "21.60%"
   },
   {
-    "id": "26",
+    "id": "44",
     "study": "Pooled uptake",
     "country": "United States",
     "city": "",
     "immunised": "",
     "total": "",
     "intervention": "nirsevimab",
-    "CI_lower": "13.7%",
-    "CI_upper": "54.5%",
-    "uptake": "30.4%"
+    "CI_lower": "13.70%",
+    "CI_upper": "54.50%",
+    "uptake": "30.40%"
   },
   {
-    "id": "9",
+    "id": "24",
     "study": "Pooled uptake",
     "country": "Spain",
     "city": "",
     "immunised": "",
     "total": "",
     "intervention": "nirsevimab",
-    "CI_lower": "63.5%",
-    "CI_upper": "87.8%",
-    "uptake": "78.0%"
+    "CI_lower": "63.50%",
+    "CI_upper": "87.80%",
+    "uptake": "78.00%"
   },
   {
-    "id": "1",
+    "id": "8",
     "study": "Pooled uptake",
     "country": "France",
     "city": "",
     "immunised": "",
     "total": "",
     "intervention": "nirsevimab",
-    "CI_lower": "14.3%",
-    "CI_upper": "49.2%",
-    "uptake": "28.7%"
+    "CI_lower": "14.30%",
+    "CI_upper": "49.20%",
+    "uptake": "28.70%"
   },
   {
-    "id": "65",
+    "id": "67",
     "study": "Birabaharan et al. (2024)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "99822",
     "total": "357814",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "27.9%"
+    "uptake": "27.90%"
   },
   {
-    "id": "64",
+    "id": "66",
     "study": "Geng et al. (2024)",
     "country": "United States",
-    "city": "west",
+    "city": "West",
     "immunised": "3970",
     "total": "15628",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "25.4%"
+    "uptake": "25.40%"
   },
   {
-    "id": "63",
+    "id": "65",
     "study": "Geng et al. (2024)",
     "country": "United States",
-    "city": "midwest",
+    "city": "Midwest",
     "immunised": "2349",
     "total": "10214",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "23.0%"
+    "uptake": "23.00%"
   },
   {
-    "id": "62",
+    "id": "64",
     "study": "Geng et al. (2024)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "1598",
     "total": "7366",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "21.7%"
+    "uptake": "21.70%"
   },
   {
-    "id": "61",
+    "id": "63",
     "study": "Geng et al. (2024)",
     "country": "United States",
-    "city": "south",
+    "city": "South",
     "immunised": "3223",
     "total": "16114",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "20.0%"
+    "uptake": "20.00%"
   },
   {
-    "id": "60",
+    "id": "62",
     "study": "Motta et al. (2025)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "50",
     "total": "358",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "14.0%"
+    "uptake": "14.00%"
   },
   {
-    "id": "59",
+    "id": "61",
     "study": "Reses et al. (2023)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "23368",
     "total": "238449",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "9.8%"
+    "uptake": "9.80%"
   },
   {
-    "id": "58",
+    "id": "60",
     "study": "Payne et al. (2024)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "3275",
     "total": "36706",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "8.9%"
+    "uptake": "8.90%"
   },
   {
-    "id": "57",
+    "id": "59",
     "study": "Surie et al. (2024)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "265",
     "total": "2978",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "8.9%"
+    "uptake": "8.90%"
   },
   {
-    "id": "56",
+    "id": "58",
     "study": "Tartof et al. (2024)",
     "country": "United States",
-    "city": "west",
+    "city": "West",
     "immunised": "223",
     "total": "7047",
     "intervention": "elderly_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "3.2%"
+    "uptake": "3.20%"
   },
   {
-    "id": "54",
+    "id": "56",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "west",
+    "city": "West",
     "immunised": "39",
     "total": "130",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "30.0%"
+    "uptake": "30.00%"
   },
   {
-    "id": "53",
+    "id": "55",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "south",
+    "city": "South",
     "immunised": "89",
     "total": "299",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "29.8%"
+    "uptake": "29.80%"
   },
   {
-    "id": "52",
+    "id": "54",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "midwest",
+    "city": "Midwest",
     "immunised": "60",
     "total": "163",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "36.8%"
+    "uptake": "36.80%"
   },
   {
-    "id": "51",
+    "id": "53",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "33",
     "total": "86",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "38.4%"
+    "uptake": "38.40%"
   },
   {
-    "id": "50",
+    "id": "52",
     "study": "Homo et al. (2024)",
     "country": "United States",
-    "city": "south",
+    "city": "South",
     "immunised": "211",
     "total": "500",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "42.2%"
+    "uptake": "42.20%"
   },
   {
-    "id": "49",
+    "id": "51",
     "study": "Son et al. (2024)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "1011",
     "total": "2973",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "34.0%"
+    "uptake": "34.00%"
   },
   {
-    "id": "48",
+    "id": "50",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "70",
     "total": "1737",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "4.0%"
+    "uptake": "4.00%"
   },
   {
-    "id": "47",
+    "id": "49",
     "study": "Kemp et al. (2025)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "4767",
     "total": "27788",
     "intervention": "maternal_vaccine",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "17.2%"
+    "uptake": "17.20%"
+  },
+  {
+    "id": "48",
+    "study": "Consolati et al. (2024)",
+    "country": "Italy",
+    "city": "Valle d' Aosta",
+    "immunised": "369",
+    "total": "537",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "68.70%"
+  },
+  {
+    "id": "47",
+    "study": "Ernst et al. (2024)",
+    "country": "Luxembourg",
+    "city": "Luxembourg",
+    "immunised": "1277",
+    "total": "1524",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "83.80%"
+  },
+  {
+    "id": "46",
+    "study": "Agüera et al. (2024)",
+    "country": "Spain",
+    "city": "Unspecified",
+    "immunised": "109",
+    "total": "181",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "60.20%"
   },
   {
     "id": "45",
+    "study": "Agüera et al. (2024)",
+    "country": "Andorra",
+    "city": "Unspecified",
+    "immunised": "109",
+    "total": "181",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "60.20%"
+  },
+  {
+    "id": "43",
     "study": "Xu et al. (2024)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "330",
     "total": "3090",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "10.7%"
-  },
-  {
-    "id": "44",
-    "study": "Razzaghi et al. (2024)",
-    "country": "United States",
-    "city": "midwest",
-    "immunised": "103",
-    "total": "212",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "48.6%"
-  },
-  {
-    "id": "43",
-    "study": "Razzaghi et al. (2024)",
-    "country": "United States",
-    "city": "south",
-    "immunised": "180",
-    "total": "379",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "47.5%"
+    "uptake": "10.70%"
   },
   {
     "id": "42",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "northeast",
-    "immunised": "51",
-    "total": "116",
+    "city": "Midwest",
+    "immunised": "103",
+    "total": "212",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "44.0%"
+    "uptake": "48.60%"
   },
   {
     "id": "41",
     "study": "Razzaghi et al. (2024)",
     "country": "United States",
-    "city": "west",
+    "city": "South",
+    "immunised": "180",
+    "total": "379",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "47.50%"
+  },
+  {
+    "id": "40",
+    "study": "Razzaghi et al. (2024)",
+    "country": "United States",
+    "city": "Northeast",
+    "immunised": "51",
+    "total": "116",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "44.00%"
+  },
+  {
+    "id": "39",
+    "study": "Razzaghi et al. (2024)",
+    "country": "United States",
+    "city": "West",
     "immunised": "58",
     "total": "159",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "36.5%"
+    "uptake": "36.50%"
   },
   {
-    "id": "40",
+    "id": "38",
     "study": "Puckett et al. (2025)",
     "country": "United States",
-    "city": "west",
+    "city": "West",
     "immunised": "794",
     "total": "1110",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "71.5%"
-  },
-  {
-    "id": "39",
-    "study": "Moline et al. (2024b)",
-    "country": "United States",
-    "city": "south",
-    "immunised": "65",
-    "total": "495",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "13.1%"
-  },
-  {
-    "id": "38",
-    "study": "Moline et al. (2024b)",
-    "country": "United States",
-    "city": "south",
-    "immunised": "65",
-    "total": "495",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "13.1%"
+    "uptake": "71.50%"
   },
   {
     "id": "37",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "west",
-    "immunised": "20",
-    "total": "207",
+    "city": "South",
+    "immunised": "65",
+    "total": "495",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "9.7%"
+    "uptake": "13.10%"
   },
   {
     "id": "36",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "west",
-    "immunised": "20",
-    "total": "207",
+    "city": "South",
+    "immunised": "65",
+    "total": "495",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "9.7%"
+    "uptake": "13.10%"
   },
   {
     "id": "35",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "midwest",
-    "immunised": "27",
-    "total": "402",
+    "city": "West",
+    "immunised": "20",
+    "total": "207",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "6.7%"
+    "uptake": "9.70%"
   },
   {
     "id": "34",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "northeast",
-    "immunised": "24",
-    "total": "512",
+    "city": "West",
+    "immunised": "20",
+    "total": "207",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "4.7%"
+    "uptake": "9.70%"
   },
   {
     "id": "33",
     "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Midwest",
+    "immunised": "27",
+    "total": "402",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "6.70%"
+  },
+  {
+    "id": "32",
+    "study": "Moline et al. (2024b)",
+    "country": "United States",
+    "city": "Midwest",
     "immunised": "24",
     "total": "512",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "4.7%"
-  },
-  {
-    "id": "32",
-    "study": "Moline et al. (2024a)",
-    "country": "United States",
-    "city": "south",
-    "immunised": "33",
-    "total": "288",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "11.5%"
+    "uptake": "4.70%"
   },
   {
     "id": "31",
-    "study": "Moline et al. (2024a)",
+    "study": "Moline et al. (2024b)",
     "country": "United States",
-    "city": "west",
-    "immunised": "17",
-    "total": "176",
+    "city": "Northeast",
+    "immunised": "24",
+    "total": "512",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "9.7%"
+    "uptake": "4.70%"
   },
   {
     "id": "30",
     "study": "Moline et al. (2024a)",
     "country": "United States",
-    "city": "northeast",
+    "city": "South",
+    "immunised": "33",
+    "total": "288",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "11.50%"
+  },
+  {
+    "id": "29",
+    "study": "Moline et al. (2024a)",
+    "country": "United States",
+    "city": "West",
+    "immunised": "17",
+    "total": "176",
+    "intervention": "nirsevimab",
+    "CI_lower": "",
+    "CI_upper": "",
+    "uptake": "9.70%"
+  },
+  {
+    "id": "28",
+    "study": "Moline et al. (2024a)",
+    "country": "United States",
+    "city": "Northeast",
     "immunised": "9",
     "total": "235",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "3.8%"
+    "uptake": "3.80%"
   },
   {
-    "id": "29",
+    "id": "27",
     "study": "Lefferts et al. (2024)",
     "country": "United States",
-    "city": "west",
+    "city": "West",
     "immunised": "756",
     "total": "1591",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "47.5%"
+    "uptake": "47.50%"
   },
   {
-    "id": "28",
+    "id": "26",
     "study": "Kemp et al. (2025)",
     "country": "United States",
-    "city": "northeast",
+    "city": "Northeast",
     "immunised": "5056",
     "total": "27788",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "18.2%"
+    "uptake": "18.20%"
   },
   {
-    "id": "27",
+    "id": "25",
     "study": "Homo et al. (2024)",
     "country": "United States",
-    "city": "south",
+    "city": "South",
     "immunised": "220",
     "total": "289",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "76.1%"
+    "uptake": "76.10%"
   },
   {
-    "id": "25",
+    "id": "23",
     "study": "Ares-Gómez et al. (2024)",
     "country": "Spain",
     "city": "Galicia",
@@ -513,10 +561,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "96.7%"
+    "uptake": "96.70%"
   },
   {
-    "id": "24",
+    "id": "22",
     "study": "Mallah et al. (2024)",
     "country": "Spain",
     "city": "Galicia",
@@ -525,10 +573,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "92.0%"
+    "uptake": "92.00%"
   },
   {
-    "id": "23",
+    "id": "21",
     "study": "Ezpeleta et al. (2024)",
     "country": "Spain",
     "city": "Navarre",
@@ -537,10 +585,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "92.0%"
+    "uptake": "92.00%"
   },
   {
-    "id": "22",
+    "id": "20",
     "study": "Perramon-Malavez et al. (2025)",
     "country": "Spain",
     "city": "Catalonia",
@@ -549,10 +597,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "91.6%"
+    "uptake": "91.60%"
   },
   {
-    "id": "21",
+    "id": "19",
     "study": "Estrella-Porter et al. (2024)",
     "country": "Spain",
     "city": "Valencia, Murcia and Valladolid",
@@ -561,10 +609,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "88.5%"
+    "uptake": "88.50%"
   },
   {
-    "id": "20",
+    "id": "18",
     "study": "Pérez Martín and Zornoza Moreno (2024)",
     "country": "Spain",
     "city": "Valencia, Murcia and Valladolid",
@@ -573,10 +621,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "88.3%"
+    "uptake": "88.30%"
   },
   {
-    "id": "19",
+    "id": "17",
     "study": "López-Lacort et al. (2025)",
     "country": "Spain",
     "city": "Valencia, Murcia and Valladolid",
@@ -585,10 +633,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "88.1%"
+    "uptake": "88.10%"
   },
   {
-    "id": "18",
+    "id": "16",
     "study": "Coma et al. (2024)",
     "country": "Spain",
     "city": "Catalonia",
@@ -597,10 +645,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "87.2%"
+    "uptake": "87.20%"
   },
   {
-    "id": "17",
+    "id": "15",
     "study": "Barbas del Buey et al. (2024)",
     "country": "Spain",
     "city": "Madrid",
@@ -609,10 +657,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "79.6%"
+    "uptake": "79.60%"
   },
   {
-    "id": "16",
+    "id": "14",
     "study": "López-Lacort et al. (2024)",
     "country": "Spain",
     "city": "Valencia, Murcia and Valladolid",
@@ -621,10 +669,10 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "69.3%"
+    "uptake": "69.30%"
   },
   {
-    "id": "15",
+    "id": "13",
     "study": "Alejandre et al. (2024)",
     "country": "Spain",
     "city": "Catalonia",
@@ -633,34 +681,22 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "67.3%"
+    "uptake": "67.30%"
   },
   {
-    "id": "14",
-    "study": "Agüera et al. (2024)",
-    "country": "Spain and Andorra",
-    "city": "",
-    "immunised": "109",
-    "total": "181",
-    "intervention": "nirsevimab",
-    "CI_lower": "",
-    "CI_upper": "",
-    "uptake": "60.2%"
-  },
-  {
-    "id": "13",
+    "id": "12",
     "study": "Andina Martínez et al. (2024)",
     "country": "Spain",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "331",
     "total": "608",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "54.4%"
+    "uptake": "54.40%"
   },
   {
-    "id": "12",
+    "id": "11",
     "study": "Molina Gutiérrez et al. (2024)",
     "country": "Spain",
     "city": "Madrid",
@@ -669,22 +705,22 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "36.5%"
+    "uptake": "36.50%"
   },
   {
-    "id": "11",
+    "id": "10",
     "study": "Jimeno Ruiz et al. (2024)",
     "country": "Spain",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "19",
     "total": "77",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "24.7%"
+    "uptake": "24.70%"
   },
   {
-    "id": "10",
+    "id": "9",
     "study": "Espeleta-Fox et al. (2024)",
     "country": "Spain",
     "city": "Madrid",
@@ -693,22 +729,22 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "15.8%"
+    "uptake": "15.80%"
   },
   {
-    "id": "8",
+    "id": "7",
     "study": "Lenglart et al. (2025)",
     "country": "France",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "77",
     "total": "383",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "20.1%"
+    "uptake": "20.10%"
   },
   {
-    "id": "7",
+    "id": "6",
     "study": "Carbajal et al. (2024)",
     "country": "France",
     "city": "Paris",
@@ -717,58 +753,58 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "31.6%"
+    "uptake": "31.60%"
   },
   {
-    "id": "6",
+    "id": "5",
     "study": "Cantais et al. (2024)",
     "country": "France",
-    "city": "Auvergne Rhône‐Alpes region",
+    "city": "Auvergne Rhône‐Alpes",
     "immunised": "572",
     "total": "748",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "76.5%"
+    "uptake": "76.50%"
   },
   {
-    "id": "5",
+    "id": "4",
     "study": "Levy et al. (2024)",
     "country": "France",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "62",
     "total": "399",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "15.5%"
+    "uptake": "15.50%"
   },
   {
-    "id": "4",
+    "id": "3",
     "study": "Paireau et al. (2024)",
     "country": "France",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "58",
     "total": "288",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "20.1%"
+    "uptake": "20.10%"
   },
   {
-    "id": "3",
+    "id": "2",
     "study": "Assad et al. (2024)",
     "country": "France",
-    "city": "",
+    "city": "Unspecified",
     "immunised": "60",
     "total": "690",
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "8.7%"
+    "uptake": "8.70%"
   },
   {
-    "id": "2",
+    "id": "1",
     "study": "Chauvel et al. (2024)",
     "country": "France",
     "city": "Lyon",
@@ -777,6 +813,6 @@
     "intervention": "nirsevimab",
     "CI_lower": "",
     "CI_upper": "",
-    "uptake": "51.2%"
+    "uptake": "51.20%"
   }
 ]
