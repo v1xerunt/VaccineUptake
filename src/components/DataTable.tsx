@@ -48,11 +48,17 @@ const columns: ColumnDef<IData>[] = [
   {
     id: "details2",
     accessorKey: "details",
+    cell: ({ row }) => row.getValue<IData["details"]>("details").study_type,
+    header: "Study type",
+  },
+  {
+    id: "details3",
+    accessorKey: "details",
     cell: ({ row }) => row.getValue<IData["details"]>("details").immunised,
     header: "immunised",
   },
   {
-    id: "details3",
+    id: "details4",
     accessorKey: "details",
     cell: ({ row }) => row.getValue<IData["details"]>("details").total,
     header: "total",

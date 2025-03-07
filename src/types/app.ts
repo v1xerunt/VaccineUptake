@@ -14,6 +14,7 @@ export interface IData {
     subFilterValue: string;
     total: string;
     immunised: string;
+    study_type: string;
     uptake: string;
     CI_lower: string;
     CI_upper: string;

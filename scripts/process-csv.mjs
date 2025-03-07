@@ -44,7 +44,7 @@ async function processCSV() {
             healthStatus: data.health_status,
             country: getCountry(data.country), // 确保列名完全匹配
             city: data.region,
-            immunised: data.immunised,
+            study_type: data.study_type,
             total: data.total,
             intervention: data.intervention,
             population: data.overall_age,
