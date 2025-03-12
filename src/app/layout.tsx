@@ -67,10 +67,55 @@ export default function RootLayout({
                           </a>
                         </Button>
                         , Dr. Bohee Lee, Dr. Sohail Ferdous, Harley H.Y. Kwok,
-                        Becky Gordon, Junyi Gao, Dr. Liantao Ma, Hanbiao Xiong,
-                        Prof. Sir Aziz Sheikh, Prof. Jürgen Schwarze, Dr. John
+                        <Button
+                          variant="link"
+                          className="mr-[-0.5rem] underline"
+                        >
+                          <a
+                            href="https://www.research.ed.ac.uk/en/projects/health-data-research-uk-studentship-rebecca-gordon"
+                            target="_blank"
+                          >
+                            Becky Gordon
+                          </a>
+                        </Button>
+                        , 
+                        <Button
+                          variant="link"
+                          className="mr-[-0.5rem] underline"
+                        >
+                          <a
+                            href="https://aboutme.vixerunt.org/"
+                            target="_blank"
+                          >
+                            Junyi Gao
+                          </a>
+                        </Button>
+                        , Dr. Liantao Ma, Hanbiao Xiong,
+                        <Button
+                          variant="link"
+                          className="mr-[-0.5rem] underline"
+                        >
+                          <a
+                            href="https://edwebprofiles.ed.ac.uk/profile/aziz-sheikh"
+                            target="_blank"
+                          >
+                            Prof. Sir Aziz Sheikh
+                          </a>
+                        </Button>
+                        , Prof. Jürgen Schwarze, Dr. John
                         Busby, Dr. Cheryl Gibbons, Dr. Simon B Drysdale, Prof.
-                        Sir Lewis Ritchie, Dr. Thomas Williams, Dr. Ting Shi
+                        Sir Lewis Ritchie, Dr. Thomas Williams, 
+                        <Button
+                          variant="link"
+                          className="mr-[-0.5rem] underline"
+                        >
+                          <a
+                            href="https://edwebprofiles.ed.ac.uk/profile/ting-shi"
+                            target="_blank"
+                          >
+                            Dr. Ting Shi
+                          </a>
+                        </Button>
                       </p>
                     </div>
                   </div>
