@@ -55,57 +55,33 @@ export default function RootLayout({
                       <p className="text-sm leading-relaxed">
                         Investigation team (led by Usher Institute from
                         University of Edinburgh):{" "}
-                        <Button
-                          variant="link"
-                          className="mr-[-0.5rem] underline"
-                        >
-                          <a
-                            href="https://edwebprofiles.ed.ac.uk/profile/daira-trusinska"
-                            target="_blank"
-                          >Daira Trusinska</a>
-                        </Button>
-                        , Dr. Bohee Lee, Dr. Sohail Ferdous, Harley H.Y. Kwok,
-                        <Button
-                          variant="link"
-                          className="mr-[-0.5rem] underline"
-                        >
-                          <a
-                            href="https://www.research.ed.ac.uk/en/projects/health-data-research-uk-studentship-rebecca-gordon"
-                            target="_blank"
-                          >Becky Gordon</a>
-                        </Button>
-                        , 
-                        <Button
-                          variant="link"
-                          className="mr-[-0.5rem] underline"
-                        >
-                          <a
-                            href="https://aboutme.vixerunt.org/"
-                            target="_blank"
-                          >Junyi Gao</a>
-                        </Button>
-                        , Dr. Liantao Ma, Hanbiao Xiong,
-                        <Button
-                          variant="link"
-                          className="mr-[-0.5rem] underline"
-                        >
-                          <a
-                            href="https://edwebprofiles.ed.ac.uk/profile/aziz-sheikh"
-                            target="_blank"
-                          >Prof. Sir Aziz Sheikh</a>
-                        </Button>
-                        , Prof. Jürgen Schwarze, Dr. John
+                        <a
+                          href="https://edwebprofiles.ed.ac.uk/profile/daira-trusinska"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Daira Trusinska</a>, Dr. Bohee Lee, Dr. Sohail Ferdous, Harley H.Y. Kwok,{" "}
+                        <a
+                          href="https://www.research.ed.ac.uk/en/projects/health-data-research-uk-studentship-rebecca-gordon"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Becky Gordon</a>,{" "}
+                        <a
+                          href="https://aboutme.vixerunt.org/"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Junyi Gao</a>, Dr. Liantao Ma, Hanbiao Xiong,{" "}
+                        <a
+                          href="https://edwebprofiles.ed.ac.uk/profile/aziz-sheikh"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Prof. Sir Aziz Sheikh</a>, Prof. Jürgen Schwarze, Dr. John
                         Busby, Dr. Cheryl Gibbons, Dr. Simon B Drysdale, Prof.
-                        Sir Lewis Ritchie, Dr. Thomas Williams, 
-                        <Button
-                          variant="link"
-                          className="mr-[-0.5rem] underline"
-                        >
-                          <a
-                            href="https://edwebprofiles.ed.ac.uk/profile/ting-shi"
-                            target="_blank"
-                          >Dr. Ting Shi</a>
-                        </Button>
+                        Sir Lewis Ritchie, Dr. Thomas Williams,{" "}
+                        <a
+                          href="https://edwebprofiles.ed.ac.uk/profile/ting-shi"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Dr. Ting Shi</a>
                       </p>
                     </div>
                   </div>
