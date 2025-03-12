@@ -62,9 +62,7 @@ export default function RootLayout({
                           <a
                             href="https://edwebprofiles.ed.ac.uk/profile/daira-trusinska"
                             target="_blank"
-                          >
-                            Daira Trusinska
-                          </a>
+                          >Daira Trusinska</a>
                         </Button>
                         , Dr. Bohee Lee, Dr. Sohail Ferdous, Harley H.Y. Kwok,
                         <Button
@@ -74,9 +72,7 @@ export default function RootLayout({
                           <a
                             href="https://www.research.ed.ac.uk/en/projects/health-data-research-uk-studentship-rebecca-gordon"
                             target="_blank"
-                          >
-                            Becky Gordon
-                          </a>
+                          >Becky Gordon</a>
                         </Button>
                         , 
                         <Button
@@ -86,9 +82,7 @@ export default function RootLayout({
                           <a
                             href="https://aboutme.vixerunt.org/"
                             target="_blank"
-                          >
-                            Junyi Gao
-                          </a>
+                          >Junyi Gao</a>
                         </Button>
                         , Dr. Liantao Ma, Hanbiao Xiong,
                         <Button
@@ -98,9 +92,7 @@ export default function RootLayout({
                           <a
                             href="https://edwebprofiles.ed.ac.uk/profile/aziz-sheikh"
                             target="_blank"
-                          >
-                            Prof. Sir Aziz Sheikh
-                          </a>
+                          >Prof. Sir Aziz Sheikh</a>
                         </Button>
                         , Prof. Jürgen Schwarze, Dr. John
                         Busby, Dr. Cheryl Gibbons, Dr. Simon B Drysdale, Prof.
@@ -112,9 +104,7 @@ export default function RootLayout({
                           <a
                             href="https://edwebprofiles.ed.ac.uk/profile/ting-shi"
                             target="_blank"
-                          >
-                            Dr. Ting Shi
-                          </a>
+                          >Dr. Ting Shi</a>
                         </Button>
                       </p>
                     </div>
