@@ -71,10 +71,16 @@ export default function RootLayout({
                           className="text-blue-600 hover:underline"
                         >Junyi Gao</a>, Dr. Liantao Ma, Hanbiao Xiong,{" "}
                         <a
+                          href="https://edwebprofiles.ed.ac.uk/profile/jurgen-schwarze"
+                          target="_blank"
+                          className="text-blue-600 hover:underline"
+                        >Prof. Jürgen Schwarze</a>,{" "}
+                        <a
                           href="https://edwebprofiles.ed.ac.uk/profile/aziz-sheikh"
                           target="_blank"
                           className="text-blue-600 hover:underline"
-                        >Prof. Sir Aziz Sheikh</a>, Prof. Jürgen Schwarze, Dr. John
+                        >Prof. Sir Aziz Sheikh</a>,
+                        , Dr. John
                         Busby, Dr. Cheryl Gibbons, Dr. Simon B Drysdale, Prof.
                         Sir Lewis Ritchie, Dr. Thomas Williams,{" "}
                         <a
